@@ -8346,5 +8346,6249 @@
   "cameras.expert": {
     "is_available": true,
     "checked": "2020-03-19T13:27:06.203103"
+  },
+  "advanced.app": {
+    "is_available": true,
+    "checked": "2020-03-19T17:08:34.453955"
+  },
+  "advanced.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T17:08:45.367833"
+  },
+  "advanced.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T17:08:56.404439"
+  },
+  "advanced.city": {
+    "is_available": true,
+    "checked": "2020-03-19T17:09:07.257380"
+  },
+  "advanced.club": {
+    "is_available": false,
+    "checked": "2020-03-19T17:09:18.119512"
+  },
+  "advanced.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T17:09:28.992167"
+  },
+  "advanced.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T17:09:39.945202"
+  },
+  "advanced.com": {
+    "is_available": false,
+    "checked": "2020-03-19T17:09:50.578152"
+  },
+  "advanced.community": {
+    "is_available": true,
+    "checked": "2020-03-19T17:10:01.718611"
+  },
+  "advanced.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T17:10:12.576957"
+  },
+  "advanced.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T17:10:23.575398"
+  },
+  "advanced.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T17:10:34.521034"
+  },
+  "advanced.events": {
+    "is_available": true,
+    "checked": "2020-03-19T17:10:45.531866"
+  },
+  "advanced.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T17:10:56.477902"
+  },
+  "advanced.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T17:11:07.606899"
+  },
+  "advanced.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T17:11:18.622963"
+  },
+  "advanced.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T17:11:29.597863"
+  },
+  "advanced.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T17:11:40.482010"
+  },
+  "advanced.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T17:11:51.572413"
+  },
+  "advanced.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T17:12:02.456341"
+  },
+  "advanced.games": {
+    "is_available": true,
+    "checked": "2020-03-19T17:12:13.555543"
+  },
+  "advanced.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T17:12:24.534947"
+  },
+  "advanced.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T17:12:35.616138"
+  },
+  "advanced.guru": {
+    "is_available": false,
+    "checked": "2020-03-19T17:12:46.353301"
+  },
+  "advanced.info": {
+    "is_available": false,
+    "checked": "2020-03-19T17:12:57.745229"
+  },
+  "advanced.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T17:13:08.676141"
+  },
+  "advanced.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T17:13:19.809445"
+  },
+  "advanced.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T17:13:30.871371"
+  },
+  "advanced.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T17:13:41.816880"
+  },
+  "advanced.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T17:13:52.779380"
+  },
+  "advanced.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T17:14:04.026421"
+  },
+  "advanced.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T17:14:14.878953"
+  },
+  "advanced.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T17:14:25.919710"
+  },
+  "advanced.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T17:14:36.846897"
+  },
+  "advanced.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T17:14:47.891336"
+  },
+  "advanced.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T17:14:58.843821"
+  },
+  "advanced.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T17:15:09.970602"
+  },
+  "ball.app": {
+    "is_available": true,
+    "checked": "2020-03-19T17:15:34.870257"
+  },
+  "ball.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T17:15:45.369398"
+  },
+  "ball.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T17:15:56.045138"
+  },
+  "ball.city": {
+    "is_available": true,
+    "checked": "2020-03-19T17:16:06.788610"
+  },
+  "ball.club": {
+    "is_available": false,
+    "checked": "2020-03-19T17:16:17.676315"
+  },
+  "ball.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T17:16:28.539579"
+  },
+  "ball.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T17:16:39.513456"
+  },
+  "ball.com": {
+    "is_available": false,
+    "checked": "2020-03-19T17:16:50.176201"
+  },
+  "ball.community": {
+    "is_available": true,
+    "checked": "2020-03-19T17:17:01.230742"
+  },
+  "ball.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T17:17:12.003595"
+  },
+  "ball.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T17:17:22.899352"
+  },
+  "ball.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T17:17:33.726385"
+  },
+  "ball.events": {
+    "is_available": true,
+    "checked": "2020-03-19T17:17:44.806330"
+  },
+  "ball.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T17:17:55.991179"
+  },
+  "ball.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T17:18:06.908279"
+  },
+  "ball.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T17:18:17.750880"
+  },
+  "ball.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T17:18:28.536158"
+  },
+  "ball.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T17:18:39.332890"
+  },
+  "ball.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T17:18:50.242316"
+  },
+  "ball.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T17:19:00.966744"
+  },
+  "ball.games": {
+    "is_available": false,
+    "checked": "2020-03-19T17:19:11.884375"
+  },
+  "ball.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T17:19:22.604804"
+  },
+  "ball.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T17:19:33.556018"
+  },
+  "ball.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T17:19:44.763459"
+  },
+  "ball.info": {
+    "is_available": true,
+    "checked": "2020-03-19T17:19:55.632871"
+  },
+  "ball.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T17:20:06.431496"
+  },
+  "ball.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T17:20:17.234450"
+  },
+  "ball.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T17:20:28.048815"
+  },
+  "ball.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T17:20:38.916585"
+  },
+  "ball.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T17:20:49.722313"
+  },
+  "ball.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T17:21:00.524752"
+  },
+  "ball.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T17:21:11.443109"
+  },
+  "ball.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T17:21:22.555525"
+  },
+  "ball.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T17:21:33.699706"
+  },
+  "ball.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T17:21:44.666170"
+  },
+  "ball.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T17:21:55.951512"
+  },
+  "ball.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T17:22:06.959587"
+  },
+  "balls.app": {
+    "is_available": true,
+    "checked": "2020-03-19T17:22:17.720105"
+  },
+  "balls.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T17:22:28.717224"
+  },
+  "balls.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T17:22:39.492858"
+  },
+  "balls.city": {
+    "is_available": true,
+    "checked": "2020-03-19T17:22:50.405756"
+  },
+  "balls.club": {
+    "is_available": false,
+    "checked": "2020-03-19T17:23:01.067451"
+  },
+  "balls.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T17:23:11.917898"
+  },
+  "balls.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T17:23:22.635611"
+  },
+  "balls.com": {
+    "is_available": false,
+    "checked": "2020-03-19T17:23:33.368253"
+  },
+  "balls.community": {
+    "is_available": true,
+    "checked": "2020-03-19T17:23:44.115079"
+  },
+  "balls.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T17:23:55.061855"
+  },
+  "balls.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T17:24:05.820834"
+  },
+  "balls.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T17:24:16.996803"
+  },
+  "balls.events": {
+    "is_available": true,
+    "checked": "2020-03-19T17:24:27.777055"
+  },
+  "balls.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T17:24:38.645912"
+  },
+  "balls.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T17:24:49.472047"
+  },
+  "balls.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T17:25:00.637970"
+  },
+  "balls.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T17:25:11.431011"
+  },
+  "balls.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T17:25:22.435911"
+  },
+  "balls.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T17:25:33.268155"
+  },
+  "balls.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T17:25:44.158260"
+  },
+  "balls.games": {
+    "is_available": true,
+    "checked": "2020-03-19T17:25:54.865591"
+  },
+  "balls.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T17:26:05.796989"
+  },
+  "balls.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T17:26:16.559342"
+  },
+  "balls.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T17:26:27.446339"
+  },
+  "balls.info": {
+    "is_available": true,
+    "checked": "2020-03-19T17:26:38.229775"
+  },
+  "balls.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T17:26:49.165254"
+  },
+  "balls.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T17:26:59.991873"
+  },
+  "balls.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T17:27:10.991315"
+  },
+  "balls.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T17:27:21.754613"
+  },
+  "balls.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T17:27:32.368038"
+  },
+  "balls.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T17:27:43.147585"
+  },
+  "balls.sale": {
+    "is_available": false,
+    "checked": "2020-03-19T17:27:54.133335"
+  },
+  "balls.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T17:28:04.887592"
+  },
+  "balls.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T17:28:15.781776"
+  },
+  "balls.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T17:28:26.524733"
+  },
+  "balls.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T17:28:37.453828"
+  },
+  "balls.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T17:28:48.192577"
+  },
+  "cameras.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T17:54:59.956601"
+  },
+  "cameras.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T17:55:10.773254"
+  },
+  "cameras.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T17:55:21.711586"
+  },
+  "cameras.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T17:55:32.656623"
+  },
+  "cameras.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T17:55:43.613935"
+  },
+  "cameras.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T17:55:54.805802"
+  },
+  "cameras.games": {
+    "is_available": true,
+    "checked": "2020-03-19T17:56:05.798509"
+  },
+  "cameras.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T17:56:16.870849"
+  },
+  "cameras.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T17:56:27.926624"
+  },
+  "cameras.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T17:56:38.705917"
+  },
+  "cameras.info": {
+    "is_available": true,
+    "checked": "2020-03-19T17:56:49.492155"
+  },
+  "cameras.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T17:57:00.211407"
+  },
+  "cameras.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T17:57:11.116766"
+  },
+  "cameras.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T17:57:21.821817"
+  },
+  "cameras.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T17:57:32.930389"
+  },
+  "cameras.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T17:57:43.781613"
+  },
+  "cameras.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T17:57:54.898019"
+  },
+  "cameras.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T17:58:05.804380"
+  },
+  "cameras.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T17:58:17.039996"
+  },
+  "cameras.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T17:58:27.743290"
+  },
+  "cameras.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T17:58:38.664224"
+  },
+  "cameras.wiki": {
+    "is_available": false,
+    "checked": "2020-03-19T17:58:49.464548"
+  },
+  "cameras.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T17:59:00.201076"
+  },
+  "call.app": {
+    "is_available": true,
+    "checked": "2020-03-19T17:59:11.352727"
+  },
+  "call.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T17:59:22.601410"
+  },
+  "call.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T17:59:33.539267"
+  },
+  "call.city": {
+    "is_available": true,
+    "checked": "2020-03-19T17:59:44.603692"
+  },
+  "call.club": {
+    "is_available": true,
+    "checked": "2020-03-19T17:59:55.398353"
+  },
+  "call.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T18:00:06.654796"
+  },
+  "call.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T18:00:17.518412"
+  },
+  "call.com": {
+    "is_available": false,
+    "checked": "2020-03-19T18:00:28.429060"
+  },
+  "call.community": {
+    "is_available": true,
+    "checked": "2020-03-19T18:00:39.382530"
+  },
+  "call.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T18:00:50.492634"
+  },
+  "call.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T18:01:01.506045"
+  },
+  "call.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T18:01:12.725972"
+  },
+  "call.events": {
+    "is_available": true,
+    "checked": "2020-03-19T18:01:23.664243"
+  },
+  "call.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T18:01:34.632878"
+  },
+  "call.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T18:01:45.601167"
+  },
+  "call.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T18:01:56.695016"
+  },
+  "call.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T18:02:07.445798"
+  },
+  "call.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T18:02:18.523234"
+  },
+  "call.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T18:02:29.351412"
+  },
+  "call.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T18:02:40.190590"
+  },
+  "call.games": {
+    "is_available": true,
+    "checked": "2020-03-19T18:02:51.155662"
+  },
+  "call.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T18:03:02.247646"
+  },
+  "call.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T18:03:12.932716"
+  },
+  "call.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T18:03:23.975751"
+  },
+  "call.info": {
+    "is_available": false,
+    "checked": "2020-03-19T18:03:34.793014"
+  },
+  "call.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T18:03:45.774764"
+  },
+  "call.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T18:03:56.709353"
+  },
+  "call.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T18:04:07.675537"
+  },
+  "call.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T18:04:18.432373"
+  },
+  "call.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T18:04:29.454922"
+  },
+  "call.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T18:04:40.389789"
+  },
+  "call.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T18:04:51.313299"
+  },
+  "call.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T18:05:02.198412"
+  },
+  "call.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T18:05:13.156931"
+  },
+  "call.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T18:05:23.990877"
+  },
+  "call.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T18:05:34.988010"
+  },
+  "call.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T18:05:45.975140"
+  },
+  "can.app": {
+    "is_available": false,
+    "checked": "2020-03-19T18:05:56.990178"
+  },
+  "can.cafe": {
+    "is_available": false,
+    "checked": "2020-03-19T18:06:07.768841"
+  },
+  "can.charity": {
+    "is_available": false,
+    "checked": "2020-03-19T18:06:19.266144"
+  },
+  "can.city": {
+    "is_available": false,
+    "checked": "2020-03-19T18:06:30.044811"
+  },
+  "can.club": {
+    "is_available": false,
+    "checked": "2020-03-19T18:06:40.932869"
+  },
+  "can.codes": {
+    "is_available": false,
+    "checked": "2020-03-19T18:06:51.774016"
+  },
+  "can.coffee": {
+    "is_available": false,
+    "checked": "2020-03-19T18:07:02.818319"
+  },
+  "can.com": {
+    "is_available": false,
+    "checked": "2020-03-19T18:07:13.503365"
+  },
+  "can.community": {
+    "is_available": false,
+    "checked": "2020-03-19T18:07:24.422576"
+  },
+  "can.coupons": {
+    "is_available": false,
+    "checked": "2020-03-19T18:07:35.248113"
+  },
+  "can.deals": {
+    "is_available": false,
+    "checked": "2020-03-19T18:07:46.044691"
+  },
+  "can.dev": {
+    "is_available": false,
+    "checked": "2020-03-19T18:07:56.889509"
+  },
+  "can.events": {
+    "is_available": false,
+    "checked": "2020-03-19T18:08:07.793177"
+  },
+  "can.expert": {
+    "is_available": false,
+    "checked": "2020-03-19T18:08:18.791835"
+  },
+  "can.finance": {
+    "is_available": false,
+    "checked": "2020-03-19T18:08:29.711119"
+  },
+  "can.fitness": {
+    "is_available": false,
+    "checked": "2020-03-19T18:08:40.505732"
+  },
+  "can.flights": {
+    "is_available": false,
+    "checked": "2020-03-19T18:08:51.361128"
+  },
+  "can.florist": {
+    "is_available": false,
+    "checked": "2020-03-19T18:09:02.187412"
+  },
+  "can.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T18:09:13.479297"
+  },
+  "can.fyi": {
+    "is_available": false,
+    "checked": "2020-03-19T18:09:24.271827"
+  },
+  "can.games": {
+    "is_available": false,
+    "checked": "2020-03-19T18:09:35.240615"
+  },
+  "can.gifts": {
+    "is_available": false,
+    "checked": "2020-03-19T18:09:45.945069"
+  },
+  "can.guide": {
+    "is_available": false,
+    "checked": "2020-03-19T18:09:56.800519"
+  },
+  "can.guru": {
+    "is_available": false,
+    "checked": "2020-03-19T18:10:07.548120"
+  },
+  "can.info": {
+    "is_available": false,
+    "checked": "2020-03-19T18:10:18.316085"
+  },
+  "can.investments": {
+    "is_available": false,
+    "checked": "2020-03-19T18:10:29.110328"
+  },
+  "can.loans": {
+    "is_available": false,
+    "checked": "2020-03-19T18:10:40.014098"
+  },
+  "can.pizza": {
+    "is_available": false,
+    "checked": "2020-03-19T18:10:50.808354"
+  },
+  "can.recipes": {
+    "is_available": false,
+    "checked": "2020-03-19T18:11:01.836968"
+  },
+  "can.rentals": {
+    "is_available": false,
+    "checked": "2020-03-19T18:11:12.595031"
+  },
+  "can.reviews": {
+    "is_available": false,
+    "checked": "2020-03-19T18:11:23.530036"
+  },
+  "can.sale": {
+    "is_available": false,
+    "checked": "2020-03-19T18:11:34.248482"
+  },
+  "can.studio": {
+    "is_available": false,
+    "checked": "2020-03-19T18:11:45.215982"
+  },
+  "can.tips": {
+    "is_available": false,
+    "checked": "2020-03-19T18:11:56.021410"
+  },
+  "can.tools": {
+    "is_available": false,
+    "checked": "2020-03-19T18:12:06.909510"
+  },
+  "can.wiki": {
+    "is_available": false,
+    "checked": "2020-03-19T18:12:17.750670"
+  },
+  "can.wtf": {
+    "is_available": false,
+    "checked": "2020-03-19T18:12:28.388778"
+  },
+  "car.app": {
+    "is_available": true,
+    "checked": "2020-03-19T18:12:39.541852"
+  },
+  "car.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T18:12:50.617370"
+  },
+  "car.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T18:13:01.474191"
+  },
+  "car.city": {
+    "is_available": true,
+    "checked": "2020-03-19T18:13:12.549695"
+  },
+  "car.club": {
+    "is_available": false,
+    "checked": "2020-03-19T18:13:23.547091"
+  },
+  "car.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T18:13:34.563191"
+  },
+  "car.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T18:13:45.470203"
+  },
+  "car.com": {
+    "is_available": false,
+    "checked": "2020-03-19T18:13:56.245563"
+  },
+  "car.community": {
+    "is_available": true,
+    "checked": "2020-03-19T18:14:07.073915"
+  },
+  "car.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T18:14:18.076766"
+  },
+  "car.deals": {
+    "is_available": false,
+    "checked": "2020-03-19T18:14:28.841429"
+  },
+  "car.dev": {
+    "is_available": false,
+    "checked": "2020-03-19T18:14:40.028560"
+  },
+  "car.events": {
+    "is_available": true,
+    "checked": "2020-03-19T18:14:51.226865"
+  },
+  "car.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T18:15:02.239884"
+  },
+  "car.finance": {
+    "is_available": false,
+    "checked": "2020-03-19T18:15:13.035370"
+  },
+  "car.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T18:15:24.032799"
+  },
+  "car.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T18:15:34.921141"
+  },
+  "car.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T18:15:45.899562"
+  },
+  "car.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T18:15:56.688520"
+  },
+  "car.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T18:16:07.740806"
+  },
+  "car.games": {
+    "is_available": false,
+    "checked": "2020-03-19T18:16:18.523518"
+  },
+  "car.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T18:16:29.427190"
+  },
+  "car.guide": {
+    "is_available": false,
+    "checked": "2020-03-19T18:16:40.205888"
+  },
+  "car.guru": {
+    "is_available": false,
+    "checked": "2020-03-19T18:16:51.125149"
+  },
+  "car.info": {
+    "is_available": false,
+    "checked": "2020-03-19T18:17:01.903879"
+  },
+  "car.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T18:17:12.838859"
+  },
+  "car.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T18:17:23.617527"
+  },
+  "car.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T18:17:34.599266"
+  },
+  "car.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T18:17:45.643502"
+  },
+  "car.rentals": {
+    "is_available": false,
+    "checked": "2020-03-19T18:17:56.203584"
+  },
+  "car.reviews": {
+    "is_available": false,
+    "checked": "2020-03-19T18:18:06.904120"
+  },
+  "car.sale": {
+    "is_available": false,
+    "checked": "2020-03-19T18:18:17.792220"
+  },
+  "car.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T18:18:28.523978"
+  },
+  "car.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T18:18:39.474507"
+  },
+  "car.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T18:18:50.503142"
+  },
+  "car.wiki": {
+    "is_available": false,
+    "checked": "2020-03-19T18:19:01.531817"
+  },
+  "car.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T18:19:12.357385"
+  },
+  "career.app": {
+    "is_available": true,
+    "checked": "2020-03-19T18:19:23.458908"
+  },
+  "career.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T18:19:34.431391"
+  },
+  "career.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T18:19:45.392756"
+  },
+  "career.city": {
+    "is_available": true,
+    "checked": "2020-03-19T18:19:56.109596"
+  },
+  "career.club": {
+    "is_available": true,
+    "checked": "2020-03-19T18:20:07.342032"
+  },
+  "career.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T18:20:18.206083"
+  },
+  "career.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T18:20:29.094128"
+  },
+  "career.com": {
+    "is_available": true,
+    "checked": "2020-03-19T18:20:39.473414"
+  },
+  "career.community": {
+    "is_available": true,
+    "checked": "2020-03-19T18:20:50.465491"
+  },
+  "career.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T18:21:01.540961"
+  },
+  "career.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T18:21:12.913334"
+  },
+  "career.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T18:21:23.582647"
+  },
+  "career.events": {
+    "is_available": true,
+    "checked": "2020-03-19T18:21:34.517562"
+  },
+  "career.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T18:21:45.374425"
+  },
+  "career.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T18:21:56.501554"
+  },
+  "career.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T18:22:07.504599"
+  },
+  "career.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T18:22:18.496032"
+  },
+  "career.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T18:22:29.019603"
+  },
+  "career.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T18:22:39.961520"
+  },
+  "career.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T18:22:50.922153"
+  },
+  "career.games": {
+    "is_available": true,
+    "checked": "2020-03-19T18:23:01.916959"
+  },
+  "career.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T18:23:12.890410"
+  },
+  "career.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T18:23:24.024361"
+  },
+  "career.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T18:23:34.950363"
+  },
+  "career.info": {
+    "is_available": true,
+    "checked": "2020-03-19T18:23:45.804940"
+  },
+  "career.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T18:23:56.497890"
+  },
+  "career.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T18:24:07.403265"
+  },
+  "career.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T18:24:18.138090"
+  },
+  "career.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T18:24:29.055721"
+  },
+  "career.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T18:24:39.967798"
+  },
+  "career.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T18:24:50.961848"
+  },
+  "career.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T18:25:01.895478"
+  },
+  "career.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T18:25:13.057448"
+  },
+  "career.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T18:25:23.898595"
+  },
+  "career.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T18:25:34.677328"
+  },
+  "career.wiki": {
+    "is_available": false,
+    "checked": "2020-03-19T18:25:45.445095"
+  },
+  "career.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T18:25:56.467465"
+  },
+  "cell.app": {
+    "is_available": true,
+    "checked": "2020-03-19T18:26:07.285413"
+  },
+  "cell.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T18:26:18.140652"
+  },
+  "cell.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T18:26:28.944916"
+  },
+  "cell.city": {
+    "is_available": true,
+    "checked": "2020-03-19T18:26:39.973525"
+  },
+  "cell.club": {
+    "is_available": true,
+    "checked": "2020-03-19T18:26:50.814740"
+  },
+  "cell.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T18:27:01.749651"
+  },
+  "cell.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T18:27:12.825155"
+  },
+  "cell.com": {
+    "is_available": true,
+    "checked": "2020-03-19T18:27:23.701378"
+  },
+  "cell.community": {
+    "is_available": true,
+    "checked": "2020-03-19T18:27:34.714398"
+  },
+  "cell.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T18:27:45.733050"
+  },
+  "cell.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T18:27:56.658357"
+  },
+  "cell.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T18:28:07.773912"
+  },
+  "cell.events": {
+    "is_available": true,
+    "checked": "2020-03-19T18:28:18.646266"
+  },
+  "cell.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T18:28:29.690528"
+  },
+  "cell.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T18:28:40.609823"
+  },
+  "cell.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T18:28:51.794644"
+  },
+  "cell.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T18:29:02.761179"
+  },
+  "cell.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T18:29:13.792773"
+  },
+  "cell.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T18:29:26.700721"
+  },
+  "cell.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T18:29:37.963687"
+  },
+  "cell.games": {
+    "is_available": true,
+    "checked": "2020-03-19T18:29:48.892558"
+  },
+  "cell.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T18:29:59.879605"
+  },
+  "cell.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T18:30:10.781071"
+  },
+  "cell.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T18:30:21.798360"
+  },
+  "cell.info": {
+    "is_available": true,
+    "checked": "2020-03-19T18:46:19.578181"
+  },
+  "cell.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T18:46:30.695290"
+  },
+  "cell.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T18:46:41.726523"
+  },
+  "cell.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T18:46:52.440916"
+  },
+  "cell.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T18:47:03.606560"
+  },
+  "cell.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T18:47:14.541333"
+  },
+  "cell.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T18:47:25.563231"
+  },
+  "cell.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T18:47:36.444286"
+  },
+  "cell.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T18:47:47.665394"
+  },
+  "cell.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T18:47:58.298543"
+  },
+  "cell.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T18:48:09.386551"
+  },
+  "cell.wiki": {
+    "is_available": false,
+    "checked": "2020-03-19T18:48:20.169837"
+  },
+  "cell.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T18:48:31.236307"
+  },
+  "celltower.app": {
+    "is_available": true,
+    "checked": "2020-03-19T18:48:42.233223"
+  },
+  "celltower.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T18:48:53.316579"
+  },
+  "celltower.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T18:49:04.183484"
+  },
+  "celltower.city": {
+    "is_available": true,
+    "checked": "2020-03-19T18:49:15.302046"
+  },
+  "celltower.club": {
+    "is_available": true,
+    "checked": "2020-03-19T18:49:26.135350"
+  },
+  "celltower.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T18:49:37.213761"
+  },
+  "celltower.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T18:49:48.072339"
+  },
+  "celltower.com": {
+    "is_available": true,
+    "checked": "2020-03-19T18:49:58.878966"
+  },
+  "celltower.community": {
+    "is_available": true,
+    "checked": "2020-03-19T18:50:09.619923"
+  },
+  "celltower.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T18:50:20.653901"
+  },
+  "celltower.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T18:50:31.501972"
+  },
+  "celltower.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T18:50:43.005029"
+  },
+  "celltower.events": {
+    "is_available": true,
+    "checked": "2020-03-19T18:50:53.774540"
+  },
+  "celltower.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T18:51:04.645714"
+  },
+  "celltower.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T18:51:15.433426"
+  },
+  "celltower.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T18:51:26.389820"
+  },
+  "celltower.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T18:51:37.100426"
+  },
+  "celltower.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T18:51:48.054016"
+  },
+  "celltower.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T18:51:58.950872"
+  },
+  "celltower.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T18:52:09.907466"
+  },
+  "celltower.games": {
+    "is_available": true,
+    "checked": "2020-03-19T18:52:20.778970"
+  },
+  "celltower.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T18:52:31.713027"
+  },
+  "celltower.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T18:52:42.489152"
+  },
+  "celltower.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T18:52:53.336336"
+  },
+  "celltower.info": {
+    "is_available": true,
+    "checked": "2020-03-19T18:53:03.873694"
+  },
+  "celltower.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T18:53:14.852646"
+  },
+  "celltower.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T18:53:25.795263"
+  },
+  "celltower.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T18:53:36.825600"
+  },
+  "celltower.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T18:53:47.596177"
+  },
+  "celltower.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T18:53:58.483875"
+  },
+  "celltower.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T18:54:09.222555"
+  },
+  "celltower.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T18:54:20.192841"
+  },
+  "celltower.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T18:54:30.967166"
+  },
+  "celltower.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T18:54:41.845343"
+  },
+  "celltower.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T18:54:52.748909"
+  },
+  "celltower.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T18:55:03.962005"
+  },
+  "celltower.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T18:55:14.474971"
+  },
+  "celltowers.app": {
+    "is_available": true,
+    "checked": "2020-03-19T18:55:25.420494"
+  },
+  "celltowers.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T18:55:36.780577"
+  },
+  "celltowers.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T18:55:47.827822"
+  },
+  "celltowers.city": {
+    "is_available": true,
+    "checked": "2020-03-19T18:55:58.534506"
+  },
+  "celltowers.club": {
+    "is_available": true,
+    "checked": "2020-03-19T18:56:09.340706"
+  },
+  "celltowers.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T18:56:20.056334"
+  },
+  "celltowers.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T18:56:31.184110"
+  },
+  "celltowers.com": {
+    "is_available": true,
+    "checked": "2020-03-19T18:56:41.890022"
+  },
+  "celltowers.community": {
+    "is_available": true,
+    "checked": "2020-03-19T18:56:52.818083"
+  },
+  "celltowers.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T18:57:03.588008"
+  },
+  "celltowers.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T18:57:14.563648"
+  },
+  "celltowers.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T18:57:25.444931"
+  },
+  "celltowers.events": {
+    "is_available": true,
+    "checked": "2020-03-19T18:57:36.427453"
+  },
+  "celltowers.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T18:57:47.241211"
+  },
+  "celltowers.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T18:57:58.128614"
+  },
+  "celltowers.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T18:58:08.861934"
+  },
+  "celltowers.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T18:58:19.739305"
+  },
+  "celltowers.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T18:58:30.822460"
+  },
+  "celltowers.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T19:06:50.946408"
+  },
+  "celltowers.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T19:07:02.191978"
+  },
+  "celltowers.games": {
+    "is_available": true,
+    "checked": "2020-03-19T19:07:13.603190"
+  },
+  "celltowers.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T19:07:24.564145"
+  },
+  "celltowers.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T19:07:35.719968"
+  },
+  "celltowers.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T19:07:46.944356"
+  },
+  "celltowers.info": {
+    "is_available": true,
+    "checked": "2020-03-19T19:07:57.931811"
+  },
+  "celltowers.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T19:08:08.835022"
+  },
+  "celltowers.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T19:08:19.670055"
+  },
+  "celltowers.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T19:08:30.771905"
+  },
+  "celltowers.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T19:08:41.860432"
+  },
+  "celltowers.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T19:08:52.768842"
+  },
+  "celltowers.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T19:09:03.892917"
+  },
+  "celltowers.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T19:09:15.035789"
+  },
+  "celltowers.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T19:09:25.673751"
+  },
+  "celltowers.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T19:09:36.176276"
+  },
+  "celltowers.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T19:09:47.437826"
+  },
+  "celltowers.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T19:09:58.523481"
+  },
+  "celltowers.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T19:10:09.620116"
+  },
+  "chart.app": {
+    "is_available": true,
+    "checked": "2020-03-19T19:10:21.020732"
+  },
+  "chart.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T19:10:32.051506"
+  },
+  "chart.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T19:10:42.967839"
+  },
+  "chart.city": {
+    "is_available": true,
+    "checked": "2020-03-19T19:10:53.921807"
+  },
+  "chart.club": {
+    "is_available": true,
+    "checked": "2020-03-19T19:11:04.770533"
+  },
+  "chart.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T19:11:15.796161"
+  },
+  "chart.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T19:11:26.680756"
+  },
+  "chart.com": {
+    "is_available": true,
+    "checked": "2020-03-19T19:11:37.437846"
+  },
+  "chart.community": {
+    "is_available": true,
+    "checked": "2020-03-19T19:11:48.457562"
+  },
+  "chart.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T19:11:59.425224"
+  },
+  "chart.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T19:12:10.648488"
+  },
+  "chart.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T19:12:22.079431"
+  },
+  "chart.events": {
+    "is_available": true,
+    "checked": "2020-03-19T19:12:32.988818"
+  },
+  "chart.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T19:12:44.078364"
+  },
+  "chart.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T19:12:55.020604"
+  },
+  "chart.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T19:13:06.268030"
+  },
+  "chart.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T19:13:17.160480"
+  },
+  "chart.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T19:13:28.053309"
+  },
+  "chart.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T19:13:38.986029"
+  },
+  "chart.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T19:13:49.891042"
+  },
+  "chart.games": {
+    "is_available": true,
+    "checked": "2020-03-19T19:14:00.676521"
+  },
+  "chart.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T19:14:11.573080"
+  },
+  "chart.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T19:14:22.314969"
+  },
+  "chart.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T19:14:33.701304"
+  },
+  "chart.info": {
+    "is_available": true,
+    "checked": "2020-03-19T19:14:44.401338"
+  },
+  "chart.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T19:14:55.584736"
+  },
+  "chart.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T19:15:06.308937"
+  },
+  "chart.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T19:15:17.226546"
+  },
+  "chart.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T19:15:28.106994"
+  },
+  "chart.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T19:15:38.986031"
+  },
+  "chart.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T19:15:49.714997"
+  },
+  "chart.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T19:16:00.619405"
+  },
+  "chart.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T19:16:11.550578"
+  },
+  "chart.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T19:16:22.701517"
+  },
+  "chart.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T19:16:33.532394"
+  },
+  "chart.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T19:16:44.638712"
+  },
+  "chart.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T19:16:55.426002"
+  },
+  "chat.app": {
+    "is_available": true,
+    "checked": "2020-03-19T19:17:06.388227"
+  },
+  "chat.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T19:17:17.243569"
+  },
+  "chat.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T19:17:28.321210"
+  },
+  "chat.city": {
+    "is_available": true,
+    "checked": "2020-03-19T19:17:39.490033"
+  },
+  "chat.club": {
+    "is_available": false,
+    "checked": "2020-03-19T19:17:50.410939"
+  },
+  "chat.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T19:18:01.407271"
+  },
+  "chat.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T19:18:12.190359"
+  },
+  "chat.com": {
+    "is_available": false,
+    "checked": "2020-03-19T19:18:22.621968"
+  },
+  "chat.community": {
+    "is_available": true,
+    "checked": "2020-03-19T19:18:33.766583"
+  },
+  "chat.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T19:18:44.578003"
+  },
+  "chat.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T19:18:55.727721"
+  },
+  "chat.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T19:19:06.688291"
+  },
+  "chat.events": {
+    "is_available": true,
+    "checked": "2020-03-19T19:19:17.970687"
+  },
+  "chat.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T19:19:28.709338"
+  },
+  "chat.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T19:19:39.587384"
+  },
+  "chat.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T19:19:50.498903"
+  },
+  "chat.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T19:20:01.517411"
+  },
+  "chat.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T19:20:11.964225"
+  },
+  "chat.fun": {
+    "is_available": false,
+    "checked": "2020-03-19T19:20:22.919874"
+  },
+  "chat.fyi": {
+    "is_available": false,
+    "checked": "2020-03-19T19:20:33.748446"
+  },
+  "chat.games": {
+    "is_available": true,
+    "checked": "2020-03-19T19:20:44.833488"
+  },
+  "chat.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T19:20:55.736008"
+  },
+  "chat.guide": {
+    "is_available": false,
+    "checked": "2020-03-19T19:21:06.619286"
+  },
+  "chat.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T19:21:17.122144"
+  },
+  "chat.info": {
+    "is_available": true,
+    "checked": "2020-03-19T19:21:27.918247"
+  },
+  "chat.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T19:21:38.682881"
+  },
+  "chat.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T19:21:49.944073"
+  },
+  "chat.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T19:22:00.997382"
+  },
+  "chat.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T19:22:12.152990"
+  },
+  "chat.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T19:22:23.141559"
+  },
+  "chat.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T19:22:34.143346"
+  },
+  "chat.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T19:22:45.118433"
+  },
+  "chat.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T19:22:56.118710"
+  },
+  "chat.tips": {
+    "is_available": false,
+    "checked": "2020-03-19T19:23:06.997968"
+  },
+  "chat.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T19:23:17.882154"
+  },
+  "chat.wiki": {
+    "is_available": false,
+    "checked": "2020-03-19T19:23:28.865954"
+  },
+  "chat.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T19:23:39.884080"
+  },
+  "cheatsheet.app": {
+    "is_available": true,
+    "checked": "2020-03-19T19:23:50.682948"
+  },
+  "cheatsheet.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T19:24:01.895738"
+  },
+  "cheatsheet.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T19:24:12.700081"
+  },
+  "cheatsheet.city": {
+    "is_available": true,
+    "checked": "2020-03-19T19:24:23.656202"
+  },
+  "cheatsheet.club": {
+    "is_available": true,
+    "checked": "2020-03-19T19:24:34.617589"
+  },
+  "cheatsheet.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T19:24:45.588324"
+  },
+  "cheatsheet.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T19:24:56.421113"
+  },
+  "cheatsheet.com": {
+    "is_available": true,
+    "checked": "2020-03-19T19:25:07.253284"
+  },
+  "cheatsheet.community": {
+    "is_available": true,
+    "checked": "2020-03-19T19:25:18.162072"
+  },
+  "cheatsheet.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T19:25:29.052925"
+  },
+  "cheatsheet.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T19:25:40.044874"
+  },
+  "cheatsheet.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T19:25:51.712950"
+  },
+  "cheatsheet.events": {
+    "is_available": true,
+    "checked": "2020-03-19T19:26:02.528838"
+  },
+  "cheatsheet.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T19:26:13.522941"
+  },
+  "cheatsheet.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T19:26:24.292885"
+  },
+  "cheatsheet.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T19:26:35.265903"
+  },
+  "cheatsheet.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T19:26:46.102943"
+  },
+  "cheatsheet.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T19:26:57.072915"
+  },
+  "cheatsheet.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T19:27:07.819537"
+  },
+  "cheatsheet.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T19:27:18.770875"
+  },
+  "cheatsheet.games": {
+    "is_available": true,
+    "checked": "2020-03-19T19:27:29.578733"
+  },
+  "cheatsheet.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T19:27:40.501692"
+  },
+  "cheatsheet.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T19:27:51.797409"
+  },
+  "cheatsheet.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T19:28:02.671833"
+  },
+  "cheatsheet.info": {
+    "is_available": true,
+    "checked": "2020-03-19T19:28:13.389581"
+  },
+  "cheatsheet.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T19:28:24.387515"
+  },
+  "cheatsheet.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T19:28:35.152801"
+  },
+  "cheatsheet.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T19:28:45.983728"
+  },
+  "cheatsheet.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T19:28:56.504718"
+  },
+  "cheatsheet.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T19:29:07.383104"
+  },
+  "cheatsheet.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T19:29:18.160001"
+  },
+  "cheatsheet.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T19:29:29.316526"
+  },
+  "cheatsheet.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T19:29:40.314284"
+  },
+  "cheatsheet.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T19:29:51.224149"
+  },
+  "cheatsheet.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T19:30:02.185108"
+  },
+  "cheatsheet.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T19:30:13.113635"
+  },
+  "cheatsheet.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T19:30:24.082144"
+  },
+  "cheatsheets.app": {
+    "is_available": true,
+    "checked": "2020-03-19T19:30:35.222033"
+  },
+  "cheatsheets.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T19:30:46.120892"
+  },
+  "cheatsheets.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T19:30:57.468983"
+  },
+  "cheatsheets.city": {
+    "is_available": true,
+    "checked": "2020-03-19T19:31:08.533634"
+  },
+  "cheatsheets.club": {
+    "is_available": false,
+    "checked": "2020-03-19T19:31:19.350780"
+  },
+  "cheatsheets.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T19:31:30.501628"
+  },
+  "cheatsheets.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T19:31:41.445377"
+  },
+  "cheatsheets.com": {
+    "is_available": true,
+    "checked": "2020-03-19T19:31:52.335765"
+  },
+  "cheatsheets.community": {
+    "is_available": true,
+    "checked": "2020-03-19T19:32:03.315565"
+  },
+  "cheatsheets.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T19:32:14.317745"
+  },
+  "cheatsheets.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T19:32:25.259729"
+  },
+  "cheatsheets.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T19:32:36.302066"
+  },
+  "cheatsheets.events": {
+    "is_available": true,
+    "checked": "2020-03-19T19:32:47.274284"
+  },
+  "cheatsheets.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T19:32:58.072051"
+  },
+  "cheatsheets.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T19:33:09.077871"
+  },
+  "cheatsheets.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T19:33:19.892183"
+  },
+  "cheatsheets.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T19:33:31.010383"
+  },
+  "cheatsheets.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T19:33:41.836888"
+  },
+  "cheatsheets.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T19:33:52.892165"
+  },
+  "cheatsheets.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T19:34:03.696913"
+  },
+  "cheatsheets.games": {
+    "is_available": true,
+    "checked": "2020-03-19T19:34:14.768293"
+  },
+  "cheatsheets.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T19:34:26.252437"
+  },
+  "cheatsheets.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T19:34:37.109161"
+  },
+  "cheatsheets.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T19:34:47.823046"
+  },
+  "cheatsheets.info": {
+    "is_available": true,
+    "checked": "2020-03-19T19:34:58.739931"
+  },
+  "cheatsheets.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T19:35:09.566791"
+  },
+  "cheatsheets.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T19:35:20.449599"
+  },
+  "cheatsheets.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T19:35:31.686483"
+  },
+  "cheatsheets.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T19:35:42.684041"
+  },
+  "cheatsheets.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T19:35:53.580688"
+  },
+  "cheatsheets.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T19:36:04.709356"
+  },
+  "cheatsheets.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T19:36:15.542301"
+  },
+  "cheatsheets.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T19:36:26.662827"
+  },
+  "cheatsheets.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T19:36:37.616122"
+  },
+  "cheatsheets.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T19:36:48.549225"
+  },
+  "cheatsheets.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T19:36:59.432849"
+  },
+  "cheatsheets.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T19:37:10.428499"
+  },
+  "check.app": {
+    "is_available": true,
+    "checked": "2020-03-19T19:37:21.464324"
+  },
+  "check.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T19:37:32.577778"
+  },
+  "check.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T19:37:43.400848"
+  },
+  "check.city": {
+    "is_available": true,
+    "checked": "2020-03-19T19:37:54.439430"
+  },
+  "check.club": {
+    "is_available": true,
+    "checked": "2020-03-19T19:38:05.425553"
+  },
+  "check.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T19:38:16.567970"
+  },
+  "check.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T19:38:27.491033"
+  },
+  "check.com": {
+    "is_available": false,
+    "checked": "2020-03-19T19:38:38.554067"
+  },
+  "check.community": {
+    "is_available": true,
+    "checked": "2020-03-19T19:38:49.541027"
+  },
+  "check.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T19:39:00.632268"
+  },
+  "check.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T19:39:11.465419"
+  },
+  "check.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T19:39:22.806655"
+  },
+  "check.events": {
+    "is_available": true,
+    "checked": "2020-03-19T19:39:33.792384"
+  },
+  "check.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T19:39:44.889645"
+  },
+  "check.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T19:39:55.541943"
+  },
+  "check.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T19:40:06.618775"
+  },
+  "check.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T19:40:17.936033"
+  },
+  "check.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T19:40:29.341518"
+  },
+  "check.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T19:40:40.364808"
+  },
+  "check.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T19:40:51.506478"
+  },
+  "check.games": {
+    "is_available": true,
+    "checked": "2020-03-19T19:41:02.484492"
+  },
+  "check.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T19:41:13.491318"
+  },
+  "check.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T19:41:24.391332"
+  },
+  "check.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T19:41:35.453369"
+  },
+  "check.info": {
+    "is_available": false,
+    "checked": "2020-03-19T19:41:46.390983"
+  },
+  "check.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T19:41:57.517461"
+  },
+  "check.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T19:42:08.841898"
+  },
+  "check.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T19:42:19.942070"
+  },
+  "check.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T19:42:30.861261"
+  },
+  "check.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T19:42:43.097208"
+  },
+  "check.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T19:42:54.072980"
+  },
+  "check.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T19:43:05.072163"
+  },
+  "check.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T19:43:15.924076"
+  },
+  "check.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T19:43:26.965173"
+  },
+  "check.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T19:43:37.945550"
+  },
+  "check.wiki": {
+    "is_available": false,
+    "checked": "2020-03-19T19:43:49.103729"
+  },
+  "check.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T19:44:00.019294"
+  },
+  "checker.app": {
+    "is_available": true,
+    "checked": "2020-03-19T19:44:11.398788"
+  },
+  "checker.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T19:44:22.375986"
+  },
+  "checker.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T19:44:33.412857"
+  },
+  "checker.city": {
+    "is_available": true,
+    "checked": "2020-03-19T19:44:44.369051"
+  },
+  "checker.club": {
+    "is_available": false,
+    "checked": "2020-03-19T19:44:55.439226"
+  },
+  "checker.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T19:45:06.283399"
+  },
+  "checker.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T19:45:18.515166"
+  },
+  "checker.com": {
+    "is_available": false,
+    "checked": "2020-03-19T19:45:29.372146"
+  },
+  "checker.community": {
+    "is_available": true,
+    "checked": "2020-03-19T19:45:40.417808"
+  },
+  "checker.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T19:45:51.292166"
+  },
+  "checker.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T19:46:02.254410"
+  },
+  "checker.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T19:46:13.140068"
+  },
+  "checker.events": {
+    "is_available": true,
+    "checked": "2020-03-19T19:46:23.815745"
+  },
+  "checker.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T19:46:34.647078"
+  },
+  "checker.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T19:46:45.697987"
+  },
+  "checker.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T19:46:56.807947"
+  },
+  "checker.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T19:47:07.855748"
+  },
+  "checker.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T19:47:18.828967"
+  },
+  "checker.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T19:47:29.684167"
+  },
+  "checker.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T19:47:40.579157"
+  },
+  "checker.games": {
+    "is_available": true,
+    "checked": "2020-03-19T19:47:51.776524"
+  },
+  "checker.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T19:48:02.636317"
+  },
+  "checker.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T19:48:14.014309"
+  },
+  "checker.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T19:48:24.925821"
+  },
+  "checker.info": {
+    "is_available": true,
+    "checked": "2020-03-19T19:48:36.005569"
+  },
+  "checker.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T19:48:46.897274"
+  },
+  "checker.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T19:48:58.065781"
+  },
+  "checker.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T19:49:08.968455"
+  },
+  "checker.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T19:49:20.098297"
+  },
+  "checker.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T19:49:30.985414"
+  },
+  "checker.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T19:49:41.931858"
+  },
+  "checker.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T19:49:52.840412"
+  },
+  "checker.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T19:50:04.023197"
+  },
+  "checker.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T19:50:14.978212"
+  },
+  "checker.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T19:50:25.984862"
+  },
+  "checker.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T19:50:36.942640"
+  },
+  "checker.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T19:50:47.941937"
+  },
+  "cheese.app": {
+    "is_available": true,
+    "checked": "2020-03-19T19:50:59.089799"
+  },
+  "cheese.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T19:51:10.426525"
+  },
+  "cheese.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T19:51:21.488904"
+  },
+  "cheese.city": {
+    "is_available": true,
+    "checked": "2020-03-19T19:51:32.493283"
+  },
+  "cheese.club": {
+    "is_available": true,
+    "checked": "2020-03-19T19:51:43.875326"
+  },
+  "cheese.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T19:51:55.049512"
+  },
+  "cheese.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T19:52:05.960174"
+  },
+  "cheese.com": {
+    "is_available": false,
+    "checked": "2020-03-19T19:52:16.884276"
+  },
+  "cheese.community": {
+    "is_available": true,
+    "checked": "2020-03-19T19:52:27.837441"
+  },
+  "cheese.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T19:52:38.753945"
+  },
+  "cheese.deals": {
+    "is_available": false,
+    "checked": "2020-03-19T19:52:49.740977"
+  },
+  "cheese.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T19:53:00.814734"
+  },
+  "cheese.events": {
+    "is_available": true,
+    "checked": "2020-03-19T19:53:11.763109"
+  },
+  "cheese.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T19:53:22.884702"
+  },
+  "cheese.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T19:53:33.886247"
+  },
+  "cheese.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T19:53:44.768076"
+  },
+  "cheese.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T19:53:55.705118"
+  },
+  "cheese.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T19:54:06.898955"
+  },
+  "cheese.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T19:54:17.898831"
+  },
+  "cheese.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T19:54:28.960100"
+  },
+  "cheese.games": {
+    "is_available": true,
+    "checked": "2020-03-19T19:54:40.061559"
+  },
+  "cheese.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T19:54:51.320693"
+  },
+  "cheese.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T19:55:02.375384"
+  },
+  "cheese.guru": {
+    "is_available": false,
+    "checked": "2020-03-19T19:55:13.467802"
+  },
+  "cheese.info": {
+    "is_available": false,
+    "checked": "2020-03-19T19:55:24.364648"
+  },
+  "cheese.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T19:55:35.633796"
+  },
+  "cheese.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T19:55:46.749876"
+  },
+  "cheese.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T19:55:58.116782"
+  },
+  "cheese.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T19:56:09.207403"
+  },
+  "cheese.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T19:56:20.423133"
+  },
+  "cheese.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T19:56:31.554745"
+  },
+  "cheese.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T19:56:42.702963"
+  },
+  "cheese.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T19:56:53.837729"
+  },
+  "cheese.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T19:57:05.265724"
+  },
+  "cheese.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T19:57:16.365113"
+  },
+  "cheese.wiki": {
+    "is_available": false,
+    "checked": "2020-03-19T19:57:27.378125"
+  },
+  "cheese.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T19:57:38.480963"
+  },
+  "chess.app": {
+    "is_available": true,
+    "checked": "2020-03-19T19:57:49.623892"
+  },
+  "chess.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T19:58:00.802069"
+  },
+  "chess.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T19:58:12.046968"
+  },
+  "chess.city": {
+    "is_available": true,
+    "checked": "2020-03-19T19:58:23.130954"
+  },
+  "chess.club": {
+    "is_available": false,
+    "checked": "2020-03-19T19:58:34.237536"
+  },
+  "chess.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T19:58:45.285205"
+  },
+  "chess.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T19:58:56.624882"
+  },
+  "chess.com": {
+    "is_available": false,
+    "checked": "2020-03-19T19:59:07.474514"
+  },
+  "chess.community": {
+    "is_available": true,
+    "checked": "2020-03-19T19:59:18.797191"
+  },
+  "chess.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T19:59:29.942941"
+  },
+  "chess.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T19:59:41.475211"
+  },
+  "chess.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T19:59:52.727008"
+  },
+  "chess.events": {
+    "is_available": true,
+    "checked": "2020-03-19T20:00:04.974099"
+  },
+  "chess.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T20:00:16.237843"
+  },
+  "chess.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T20:00:27.580178"
+  },
+  "chess.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T20:00:38.576675"
+  },
+  "chess.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T20:00:49.719921"
+  },
+  "chess.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T20:01:00.852322"
+  },
+  "chess.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T20:01:12.425143"
+  },
+  "chess.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T20:01:23.351353"
+  },
+  "chess.games": {
+    "is_available": false,
+    "checked": "2020-03-19T20:01:34.666849"
+  },
+  "chess.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T20:01:46.593435"
+  },
+  "chess.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T20:01:57.746672"
+  },
+  "chess.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T20:02:08.849640"
+  },
+  "chess.info": {
+    "is_available": true,
+    "checked": "2020-03-19T20:02:19.941571"
+  },
+  "chess.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T20:02:30.818457"
+  },
+  "chess.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T20:02:42.113313"
+  },
+  "chess.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T20:02:52.987758"
+  },
+  "chess.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T20:03:04.112091"
+  },
+  "chess.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:03:15.019302"
+  },
+  "chess.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T20:03:26.252812"
+  },
+  "chess.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T20:03:37.235110"
+  },
+  "chess.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T20:03:48.259672"
+  },
+  "chess.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T20:03:59.235074"
+  },
+  "chess.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T20:04:10.415497"
+  },
+  "chess.wiki": {
+    "is_available": false,
+    "checked": "2020-03-19T20:04:21.356152"
+  },
+  "chess.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T20:04:32.900533"
+  },
+  "chicken.app": {
+    "is_available": true,
+    "checked": "2020-03-19T20:04:43.855683"
+  },
+  "chicken.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T20:04:54.966224"
+  },
+  "chicken.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T20:05:05.961576"
+  },
+  "chicken.city": {
+    "is_available": true,
+    "checked": "2020-03-19T20:05:17.152820"
+  },
+  "chicken.club": {
+    "is_available": true,
+    "checked": "2020-03-19T20:05:28.220169"
+  },
+  "chicken.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T20:05:39.247681"
+  },
+  "chicken.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T20:05:50.197659"
+  },
+  "chicken.com": {
+    "is_available": false,
+    "checked": "2020-03-19T20:06:01.112319"
+  },
+  "chicken.community": {
+    "is_available": true,
+    "checked": "2020-03-19T20:06:11.989282"
+  },
+  "chicken.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T20:06:23.033760"
+  },
+  "chicken.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:06:33.984370"
+  },
+  "chicken.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T20:06:45.100337"
+  },
+  "chicken.events": {
+    "is_available": true,
+    "checked": "2020-03-19T20:06:56.031712"
+  },
+  "chicken.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T20:07:07.247351"
+  },
+  "chicken.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T20:07:18.166000"
+  },
+  "chicken.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T20:07:29.237150"
+  },
+  "chicken.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T20:07:40.204658"
+  },
+  "chicken.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T20:07:51.591819"
+  },
+  "chicken.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T20:08:02.647001"
+  },
+  "chicken.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T20:08:13.859135"
+  },
+  "chicken.games": {
+    "is_available": true,
+    "checked": "2020-03-19T20:08:25.074352"
+  },
+  "chicken.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T20:08:36.369840"
+  },
+  "chicken.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T20:08:47.212728"
+  },
+  "chicken.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T20:08:58.489048"
+  },
+  "chicken.info": {
+    "is_available": false,
+    "checked": "2020-03-19T20:09:09.392709"
+  },
+  "chicken.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T20:09:20.682990"
+  },
+  "chicken.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T20:09:31.776408"
+  },
+  "chicken.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T20:09:42.960883"
+  },
+  "chicken.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T20:09:54.073537"
+  },
+  "chicken.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:10:05.476664"
+  },
+  "chicken.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T20:10:16.568436"
+  },
+  "chicken.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T20:10:27.611731"
+  },
+  "chicken.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T20:10:38.536722"
+  },
+  "chicken.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T20:10:49.867557"
+  },
+  "chicken.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T20:11:01.189284"
+  },
+  "chicken.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T20:11:12.521813"
+  },
+  "chicken.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T20:11:23.578693"
+  },
+  "chill.app": {
+    "is_available": true,
+    "checked": "2020-03-19T20:11:34.787335"
+  },
+  "chill.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T20:11:45.816556"
+  },
+  "chill.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T20:11:56.984882"
+  },
+  "chill.city": {
+    "is_available": true,
+    "checked": "2020-03-19T20:12:08.030289"
+  },
+  "chill.club": {
+    "is_available": false,
+    "checked": "2020-03-19T20:12:19.174228"
+  },
+  "chill.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T20:12:30.240499"
+  },
+  "chill.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T20:12:41.699370"
+  },
+  "chill.com": {
+    "is_available": false,
+    "checked": "2020-03-19T20:12:52.784969"
+  },
+  "chill.community": {
+    "is_available": true,
+    "checked": "2020-03-19T20:13:03.964986"
+  },
+  "chill.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T20:13:15.093635"
+  },
+  "chill.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:13:26.376185"
+  },
+  "chill.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T20:13:37.574998"
+  },
+  "chill.events": {
+    "is_available": true,
+    "checked": "2020-03-19T20:13:49.096325"
+  },
+  "chill.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T20:14:00.204046"
+  },
+  "chill.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T20:14:11.249209"
+  },
+  "chill.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T20:14:22.444023"
+  },
+  "chill.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T20:14:33.651596"
+  },
+  "chill.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T20:14:44.570873"
+  },
+  "chill.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T20:14:55.963419"
+  },
+  "chill.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T20:15:06.991666"
+  },
+  "chill.games": {
+    "is_available": true,
+    "checked": "2020-03-19T20:15:18.296340"
+  },
+  "chill.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T20:15:29.274368"
+  },
+  "chill.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T20:15:40.349814"
+  },
+  "chill.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T20:15:51.293755"
+  },
+  "chill.info": {
+    "is_available": true,
+    "checked": "2020-03-19T20:16:02.417842"
+  },
+  "chill.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T20:16:13.390424"
+  },
+  "chill.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T20:16:24.788707"
+  },
+  "chill.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T20:16:35.942220"
+  },
+  "chill.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T20:16:47.134763"
+  },
+  "chill.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:16:58.104727"
+  },
+  "chill.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T20:17:09.297133"
+  },
+  "chill.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T20:17:20.392702"
+  },
+  "chill.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T20:17:31.433870"
+  },
+  "chill.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T20:17:42.821382"
+  },
+  "chill.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T20:17:54.122632"
+  },
+  "chill.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T20:18:05.267309"
+  },
+  "chill.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T20:18:16.712762"
+  },
+  "chocolate.app": {
+    "is_available": true,
+    "checked": "2020-03-19T20:18:27.839106"
+  },
+  "chocolate.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T20:18:39.040054"
+  },
+  "chocolate.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T20:18:50.269838"
+  },
+  "chocolate.city": {
+    "is_available": true,
+    "checked": "2020-03-19T20:19:01.541007"
+  },
+  "chocolate.club": {
+    "is_available": false,
+    "checked": "2020-03-19T20:19:12.445738"
+  },
+  "chocolate.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T20:19:23.634549"
+  },
+  "chocolate.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T20:19:34.825440"
+  },
+  "chocolate.com": {
+    "is_available": false,
+    "checked": "2020-03-19T20:19:45.975928"
+  },
+  "chocolate.community": {
+    "is_available": true,
+    "checked": "2020-03-19T20:19:56.803826"
+  },
+  "chocolate.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T20:20:08.134800"
+  },
+  "chocolate.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:20:19.249256"
+  },
+  "chocolate.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T20:20:30.663441"
+  },
+  "chocolate.events": {
+    "is_available": true,
+    "checked": "2020-03-19T20:20:41.838504"
+  },
+  "chocolate.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T20:20:53.089899"
+  },
+  "chocolate.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T20:21:04.207009"
+  },
+  "chocolate.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T20:21:15.367008"
+  },
+  "chocolate.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T20:21:26.562969"
+  },
+  "chocolate.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T20:21:38.042697"
+  },
+  "chocolate.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T20:21:49.169970"
+  },
+  "chocolate.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T20:22:00.129175"
+  },
+  "chocolate.games": {
+    "is_available": true,
+    "checked": "2020-03-19T20:22:11.222147"
+  },
+  "chocolate.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T20:22:22.464466"
+  },
+  "chocolate.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T20:22:33.561604"
+  },
+  "chocolate.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T20:22:44.780311"
+  },
+  "chocolate.info": {
+    "is_available": false,
+    "checked": "2020-03-19T20:22:55.719224"
+  },
+  "chocolate.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T20:23:07.033326"
+  },
+  "chocolate.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T20:23:17.959264"
+  },
+  "chocolate.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T20:23:29.328904"
+  },
+  "chocolate.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T20:23:40.377612"
+  },
+  "chocolate.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:23:51.462605"
+  },
+  "chocolate.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T20:24:02.411575"
+  },
+  "chocolate.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T20:24:13.949526"
+  },
+  "chocolate.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T20:24:24.891488"
+  },
+  "chocolate.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T20:24:35.912470"
+  },
+  "chocolate.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T20:24:46.931174"
+  },
+  "chocolate.wiki": {
+    "is_available": false,
+    "checked": "2020-03-19T20:24:58.088442"
+  },
+  "chocolate.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T20:25:09.065641"
+  },
+  "christmas.app": {
+    "is_available": true,
+    "checked": "2020-03-19T20:25:20.346454"
+  },
+  "christmas.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T20:25:31.312070"
+  },
+  "christmas.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T20:25:42.685872"
+  },
+  "christmas.city": {
+    "is_available": true,
+    "checked": "2020-03-19T20:25:54.010047"
+  },
+  "christmas.club": {
+    "is_available": false,
+    "checked": "2020-03-19T20:26:05.032132"
+  },
+  "christmas.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T20:26:16.111588"
+  },
+  "christmas.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T20:26:27.151824"
+  },
+  "christmas.com": {
+    "is_available": false,
+    "checked": "2020-03-19T20:26:38.001435"
+  },
+  "christmas.community": {
+    "is_available": true,
+    "checked": "2020-03-19T20:26:49.516648"
+  },
+  "christmas.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T20:27:00.627272"
+  },
+  "christmas.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:27:11.887694"
+  },
+  "christmas.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T20:27:23.256821"
+  },
+  "christmas.events": {
+    "is_available": true,
+    "checked": "2020-03-19T20:27:34.311497"
+  },
+  "christmas.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T20:27:45.441677"
+  },
+  "christmas.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T20:27:56.776444"
+  },
+  "christmas.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T20:28:07.953348"
+  },
+  "christmas.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T20:28:18.984976"
+  },
+  "christmas.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T20:28:30.116722"
+  },
+  "christmas.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T20:28:41.448433"
+  },
+  "christmas.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T20:28:52.453901"
+  },
+  "christmas.games": {
+    "is_available": true,
+    "checked": "2020-03-19T20:29:03.787257"
+  },
+  "christmas.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T20:29:14.889377"
+  },
+  "christmas.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T20:29:25.996533"
+  },
+  "christmas.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T20:29:36.956547"
+  },
+  "christmas.info": {
+    "is_available": false,
+    "checked": "2020-03-19T20:29:47.931858"
+  },
+  "christmas.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T20:29:58.966231"
+  },
+  "christmas.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T20:30:10.068320"
+  },
+  "christmas.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T20:30:21.008587"
+  },
+  "christmas.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T20:30:32.193873"
+  },
+  "christmas.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:30:43.410125"
+  },
+  "christmas.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T20:30:54.434281"
+  },
+  "christmas.sale": {
+    "is_available": false,
+    "checked": "2020-03-19T20:31:05.120582"
+  },
+  "christmas.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T20:31:16.361230"
+  },
+  "christmas.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T20:31:27.478660"
+  },
+  "christmas.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T20:31:38.947800"
+  },
+  "christmas.wiki": {
+    "is_available": false,
+    "checked": "2020-03-19T20:31:51.138584"
+  },
+  "christmas.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T20:32:02.396603"
+  },
+  "clone.app": {
+    "is_available": true,
+    "checked": "2020-03-19T20:32:13.381676"
+  },
+  "clone.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T20:32:24.476884"
+  },
+  "clone.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T20:32:35.801586"
+  },
+  "clone.city": {
+    "is_available": true,
+    "checked": "2020-03-19T20:32:47.350377"
+  },
+  "clone.club": {
+    "is_available": true,
+    "checked": "2020-03-19T20:32:58.374791"
+  },
+  "clone.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T20:33:09.393269"
+  },
+  "clone.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T20:33:20.554849"
+  },
+  "clone.com": {
+    "is_available": true,
+    "checked": "2020-03-19T20:33:31.465456"
+  },
+  "clone.community": {
+    "is_available": true,
+    "checked": "2020-03-19T20:33:42.488762"
+  },
+  "clone.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T20:33:53.570732"
+  },
+  "clone.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:34:04.578589"
+  },
+  "clone.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T20:34:15.692573"
+  },
+  "clone.events": {
+    "is_available": true,
+    "checked": "2020-03-19T20:34:26.711495"
+  },
+  "clone.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T20:34:37.784411"
+  },
+  "clone.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T20:34:48.868292"
+  },
+  "clone.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T20:35:00.359818"
+  },
+  "clone.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T20:35:11.143006"
+  },
+  "clone.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T20:35:22.437968"
+  },
+  "clone.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T20:35:33.484421"
+  },
+  "clone.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T20:35:44.523855"
+  },
+  "clone.games": {
+    "is_available": true,
+    "checked": "2020-03-19T20:35:55.475871"
+  },
+  "clone.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T20:36:06.594745"
+  },
+  "clone.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T20:36:17.594988"
+  },
+  "clone.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T20:36:28.399135"
+  },
+  "clone.info": {
+    "is_available": true,
+    "checked": "2020-03-19T20:36:39.658143"
+  },
+  "clone.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T20:36:50.843957"
+  },
+  "clone.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T20:37:02.313215"
+  },
+  "clone.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T20:37:13.547726"
+  },
+  "clone.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T20:37:24.694977"
+  },
+  "clone.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:37:35.790405"
+  },
+  "clone.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T20:37:46.908347"
+  },
+  "clone.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T20:37:58.260475"
+  },
+  "clone.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T20:38:09.628210"
+  },
+  "clone.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T20:38:20.835351"
+  },
+  "clone.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T20:38:31.809453"
+  },
+  "clone.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T20:38:43.096399"
+  },
+  "clone.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T20:38:54.104202"
+  },
+  "clones.app": {
+    "is_available": true,
+    "checked": "2020-03-19T20:39:05.572591"
+  },
+  "clones.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T20:39:16.625479"
+  },
+  "clones.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T20:39:27.713337"
+  },
+  "clones.city": {
+    "is_available": true,
+    "checked": "2020-03-19T20:39:38.612718"
+  },
+  "clones.club": {
+    "is_available": true,
+    "checked": "2020-03-19T20:39:50.023070"
+  },
+  "clones.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T20:40:01.043919"
+  },
+  "clones.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T20:40:12.215012"
+  },
+  "clones.com": {
+    "is_available": true,
+    "checked": "2020-03-19T20:40:23.774685"
+  },
+  "clones.community": {
+    "is_available": true,
+    "checked": "2020-03-19T20:40:34.912332"
+  },
+  "clones.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T20:40:45.926461"
+  },
+  "clones.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:40:57.259217"
+  },
+  "clones.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T20:41:08.507609"
+  },
+  "clones.events": {
+    "is_available": true,
+    "checked": "2020-03-19T20:41:19.671240"
+  },
+  "clones.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T20:41:30.821195"
+  },
+  "clones.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T20:41:41.892114"
+  },
+  "clones.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T20:41:52.882577"
+  },
+  "clones.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T20:42:03.931156"
+  },
+  "clones.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T20:42:14.942573"
+  },
+  "clones.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T20:42:26.422417"
+  },
+  "clones.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T20:42:37.575196"
+  },
+  "clones.games": {
+    "is_available": true,
+    "checked": "2020-03-19T20:42:48.782260"
+  },
+  "clones.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T20:43:00.324501"
+  },
+  "clones.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T20:43:11.574073"
+  },
+  "clones.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T20:43:22.808978"
+  },
+  "clones.info": {
+    "is_available": true,
+    "checked": "2020-03-19T20:43:34.014248"
+  },
+  "clones.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T20:43:45.091259"
+  },
+  "clones.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T20:43:56.279083"
+  },
+  "clones.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T20:44:07.533150"
+  },
+  "clones.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T20:44:18.704048"
+  },
+  "clones.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:44:30.700148"
+  },
+  "clones.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T20:44:41.799826"
+  },
+  "clones.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T20:44:52.777412"
+  },
+  "clones.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T20:45:03.857888"
+  },
+  "clones.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T20:45:14.755270"
+  },
+  "clones.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T20:45:26.072414"
+  },
+  "clones.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T20:45:37.562278"
+  },
+  "clones.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T20:45:48.580422"
+  },
+  "code.app": {
+    "is_available": true,
+    "checked": "2020-03-19T20:45:59.842323"
+  },
+  "code.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T20:46:11.029626"
+  },
+  "code.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T20:46:22.057836"
+  },
+  "code.city": {
+    "is_available": true,
+    "checked": "2020-03-19T20:46:33.386769"
+  },
+  "code.club": {
+    "is_available": false,
+    "checked": "2020-03-19T20:46:44.348136"
+  },
+  "code.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T20:46:55.486241"
+  },
+  "code.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T20:47:07.515917"
+  },
+  "code.com": {
+    "is_available": false,
+    "checked": "2020-03-19T20:47:18.499721"
+  },
+  "code.community": {
+    "is_available": true,
+    "checked": "2020-03-19T20:47:29.529599"
+  },
+  "code.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T20:47:40.879101"
+  },
+  "code.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:47:52.107887"
+  },
+  "code.dev": {
+    "is_available": false,
+    "checked": "2020-03-19T20:48:03.202830"
+  },
+  "code.events": {
+    "is_available": true,
+    "checked": "2020-03-19T20:48:14.309536"
+  },
+  "code.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T20:48:25.428123"
+  },
+  "code.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T20:48:36.445145"
+  },
+  "code.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T20:48:47.535202"
+  },
+  "code.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T20:48:58.517150"
+  },
+  "code.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T20:49:09.821266"
+  },
+  "code.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T20:49:20.832302"
+  },
+  "code.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T20:49:32.083814"
+  },
+  "code.games": {
+    "is_available": false,
+    "checked": "2020-03-19T20:49:43.057321"
+  },
+  "code.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T20:49:54.128528"
+  },
+  "code.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T20:50:05.398568"
+  },
+  "code.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T20:50:16.430595"
+  },
+  "code.info": {
+    "is_available": true,
+    "checked": "2020-03-19T20:50:27.336890"
+  },
+  "code.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T20:50:38.508999"
+  },
+  "code.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T20:50:49.524522"
+  },
+  "code.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T20:51:00.701780"
+  },
+  "code.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T20:51:11.679823"
+  },
+  "code.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:51:22.752024"
+  },
+  "code.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T20:51:33.697276"
+  },
+  "code.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T20:51:44.987795"
+  },
+  "code.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T20:51:56.333996"
+  },
+  "code.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T20:52:07.708475"
+  },
+  "code.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T20:52:18.908072"
+  },
+  "code.wiki": {
+    "is_available": false,
+    "checked": "2020-03-19T20:52:30.251861"
+  },
+  "code.wtf": {
+    "is_available": false,
+    "checked": "2020-03-19T20:52:41.224903"
+  },
+  "coffee.app": {
+    "is_available": true,
+    "checked": "2020-03-19T20:52:52.436829"
+  },
+  "coffee.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T20:53:03.633130"
+  },
+  "coffee.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T20:53:14.716282"
+  },
+  "coffee.city": {
+    "is_available": true,
+    "checked": "2020-03-19T20:53:25.859104"
+  },
+  "coffee.club": {
+    "is_available": false,
+    "checked": "2020-03-19T20:53:36.868278"
+  },
+  "coffee.codes": {
+    "is_available": false,
+    "checked": "2020-03-19T20:53:47.957962"
+  },
+  "coffee.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T20:53:59.652513"
+  },
+  "coffee.com": {
+    "is_available": false,
+    "checked": "2020-03-19T20:54:10.324293"
+  },
+  "coffee.community": {
+    "is_available": true,
+    "checked": "2020-03-19T20:54:21.357984"
+  },
+  "coffee.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T20:54:32.517771"
+  },
+  "coffee.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:54:43.790530"
+  },
+  "coffee.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T20:54:54.848475"
+  },
+  "coffee.events": {
+    "is_available": true,
+    "checked": "2020-03-19T20:55:06.157502"
+  },
+  "coffee.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T20:55:17.109527"
+  },
+  "coffee.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T20:55:28.387109"
+  },
+  "coffee.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T20:55:39.355811"
+  },
+  "coffee.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T20:55:50.512436"
+  },
+  "coffee.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T20:56:01.466146"
+  },
+  "coffee.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T20:56:12.577909"
+  },
+  "coffee.fyi": {
+    "is_available": false,
+    "checked": "2020-03-19T20:56:23.616577"
+  },
+  "coffee.games": {
+    "is_available": true,
+    "checked": "2020-03-19T20:56:34.891349"
+  },
+  "coffee.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T20:56:46.220293"
+  },
+  "coffee.guide": {
+    "is_available": false,
+    "checked": "2020-03-19T20:56:57.574642"
+  },
+  "coffee.guru": {
+    "is_available": false,
+    "checked": "2020-03-19T20:57:08.558901"
+  },
+  "coffee.info": {
+    "is_available": false,
+    "checked": "2020-03-19T20:57:20.110167"
+  },
+  "coffee.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T20:57:31.110899"
+  },
+  "coffee.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T20:57:42.311844"
+  },
+  "coffee.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T20:57:53.293529"
+  },
+  "coffee.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T20:58:04.345607"
+  },
+  "coffee.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T20:58:15.409731"
+  },
+  "coffee.reviews": {
+    "is_available": false,
+    "checked": "2020-03-19T20:58:26.586482"
+  },
+  "coffee.sale": {
+    "is_available": false,
+    "checked": "2020-03-19T20:58:37.891583"
+  },
+  "coffee.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T20:58:48.977643"
+  },
+  "coffee.tips": {
+    "is_available": false,
+    "checked": "2020-03-19T20:59:00.019193"
+  },
+  "coffee.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T20:59:11.620278"
+  },
+  "coffee.wiki": {
+    "is_available": false,
+    "checked": "2020-03-19T20:59:22.596426"
+  },
+  "coffee.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T20:59:33.821228"
+  },
+  "cold.app": {
+    "is_available": true,
+    "checked": "2020-03-19T20:59:45.035668"
+  },
+  "cold.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T20:59:56.378386"
+  },
+  "cold.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T21:00:07.534483"
+  },
+  "cold.city": {
+    "is_available": true,
+    "checked": "2020-03-19T21:00:18.631818"
+  },
+  "cold.club": {
+    "is_available": true,
+    "checked": "2020-03-19T21:00:29.679009"
+  },
+  "cold.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:00:40.956896"
+  },
+  "cold.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T21:00:52.090165"
+  },
+  "cold.com": {
+    "is_available": false,
+    "checked": "2020-03-19T21:01:03.184722"
+  },
+  "cold.community": {
+    "is_available": true,
+    "checked": "2020-03-19T21:01:14.222255"
+  },
+  "cold.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T21:01:25.476779"
+  },
+  "cold.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:01:36.755489"
+  },
+  "cold.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T21:01:48.123690"
+  },
+  "cold.events": {
+    "is_available": true,
+    "checked": "2020-03-19T21:01:58.913185"
+  },
+  "cold.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T21:02:10.002206"
+  },
+  "cold.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T21:02:20.980881"
+  },
+  "cold.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T21:02:35.194314"
+  },
+  "cold.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T21:02:46.131842"
+  },
+  "cold.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T21:02:57.373197"
+  },
+  "cold.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T21:03:08.382599"
+  },
+  "cold.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T21:03:19.423758"
+  },
+  "cold.games": {
+    "is_available": true,
+    "checked": "2020-03-19T21:03:30.501582"
+  },
+  "cold.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T21:03:42.139464"
+  },
+  "cold.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T21:03:53.325396"
+  },
+  "cold.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T21:04:04.565847"
+  },
+  "cold.info": {
+    "is_available": true,
+    "checked": "2020-03-19T21:04:15.887643"
+  },
+  "cold.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T21:04:27.343667"
+  },
+  "cold.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T21:04:38.806913"
+  },
+  "cold.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T21:04:50.018149"
+  },
+  "cold.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:05:01.192700"
+  },
+  "cold.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:05:12.905025"
+  },
+  "cold.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T21:05:24.018478"
+  },
+  "cold.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T21:05:35.115452"
+  },
+  "cold.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T21:05:46.227826"
+  },
+  "cold.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T21:05:57.299804"
+  },
+  "cold.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T21:06:08.220324"
+  },
+  "cold.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T21:06:19.374498"
+  },
+  "cold.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T21:06:30.386473"
+  },
+  "coldbrew.app": {
+    "is_available": false,
+    "checked": "2020-03-19T21:06:41.466969"
+  },
+  "coldbrew.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T21:06:52.467306"
+  },
+  "coldbrew.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T21:07:04.678725"
+  },
+  "coldbrew.city": {
+    "is_available": true,
+    "checked": "2020-03-19T21:07:15.609521"
+  },
+  "coldbrew.club": {
+    "is_available": false,
+    "checked": "2020-03-19T21:07:26.807792"
+  },
+  "coldbrew.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:07:37.884416"
+  },
+  "coldbrew.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T21:07:49.013445"
+  },
+  "coldbrew.com": {
+    "is_available": true,
+    "checked": "2020-03-19T21:07:59.865394"
+  },
+  "coldbrew.community": {
+    "is_available": true,
+    "checked": "2020-03-19T21:08:11.007629"
+  },
+  "coldbrew.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T21:08:21.988046"
+  },
+  "coldbrew.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:08:33.155982"
+  },
+  "coldbrew.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T21:08:44.262920"
+  },
+  "coldbrew.events": {
+    "is_available": true,
+    "checked": "2020-03-19T21:08:55.443311"
+  },
+  "coldbrew.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T21:09:06.487085"
+  },
+  "coldbrew.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T21:09:17.718944"
+  },
+  "coldbrew.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T21:09:28.658559"
+  },
+  "coldbrew.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T21:09:39.823573"
+  },
+  "coldbrew.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T21:09:50.828387"
+  },
+  "coldbrew.fun": {
+    "is_available": false,
+    "checked": "2020-03-19T21:10:03.206215"
+  },
+  "coldbrew.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T21:10:14.192032"
+  },
+  "coldbrew.games": {
+    "is_available": true,
+    "checked": "2020-03-19T21:10:25.373265"
+  },
+  "coldbrew.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T21:10:36.380776"
+  },
+  "coldbrew.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T21:10:47.653064"
+  },
+  "coldbrew.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T21:10:58.622558"
+  },
+  "coldbrew.info": {
+    "is_available": true,
+    "checked": "2020-03-19T21:11:09.590922"
+  },
+  "coldbrew.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T21:11:20.571513"
+  },
+  "coldbrew.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T21:11:31.638725"
+  },
+  "coldbrew.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T21:11:42.597965"
+  },
+  "coldbrew.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:11:53.789713"
+  },
+  "coldbrew.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:12:04.928592"
+  },
+  "coldbrew.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T21:12:16.152643"
+  },
+  "coldbrew.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T21:12:27.254598"
+  },
+  "coldbrew.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T21:12:38.712736"
+  },
+  "coldbrew.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T21:12:49.697129"
+  },
+  "coldbrew.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T21:13:01.165753"
+  },
+  "coldbrew.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T21:13:12.429232"
+  },
+  "coldbrew.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T21:13:24.099278"
+  },
+  "command.app": {
+    "is_available": true,
+    "checked": "2020-03-19T21:13:35.210080"
+  },
+  "command.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T21:13:46.526662"
+  },
+  "command.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T21:13:57.760938"
+  },
+  "command.city": {
+    "is_available": true,
+    "checked": "2020-03-19T21:14:09.007317"
+  },
+  "command.club": {
+    "is_available": false,
+    "checked": "2020-03-19T21:14:20.274374"
+  },
+  "command.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:14:31.967940"
+  },
+  "command.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T21:14:43.214205"
+  },
+  "command.com": {
+    "is_available": false,
+    "checked": "2020-03-19T21:14:54.199264"
+  },
+  "command.community": {
+    "is_available": true,
+    "checked": "2020-03-19T21:15:05.194169"
+  },
+  "command.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T21:15:16.266518"
+  },
+  "command.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:15:27.598898"
+  },
+  "command.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T21:15:38.885499"
+  },
+  "command.events": {
+    "is_available": true,
+    "checked": "2020-03-19T21:15:49.893697"
+  },
+  "command.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T21:16:01.177878"
+  },
+  "command.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T21:16:12.313020"
+  },
+  "command.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T21:16:23.537356"
+  },
+  "command.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T21:16:34.661189"
+  },
+  "command.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T21:16:46.977884"
+  },
+  "command.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T21:16:58.054507"
+  },
+  "command.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T21:17:12.410980"
+  },
+  "command.games": {
+    "is_available": true,
+    "checked": "2020-03-19T21:17:23.438894"
+  },
+  "command.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T21:17:34.521572"
+  },
+  "command.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T21:17:45.571035"
+  },
+  "command.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T21:17:57.287819"
+  },
+  "command.info": {
+    "is_available": true,
+    "checked": "2020-03-19T21:18:08.264606"
+  },
+  "command.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T21:18:19.441017"
+  },
+  "command.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T21:18:30.429374"
+  },
+  "command.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T21:18:41.518224"
+  },
+  "command.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:18:52.429183"
+  },
+  "command.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:19:03.670218"
+  },
+  "command.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T21:19:14.637467"
+  },
+  "command.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T21:19:25.835473"
+  },
+  "command.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T21:19:36.845332"
+  },
+  "command.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T21:19:48.286386"
+  },
+  "command.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T21:19:59.442890"
+  },
+  "command.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T21:20:10.760487"
+  },
+  "command.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T21:20:22.334867"
+  },
+  "comment.app": {
+    "is_available": true,
+    "checked": "2020-03-19T21:20:33.876802"
+  },
+  "comment.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T21:20:44.849909"
+  },
+  "comment.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T21:20:56.270171"
+  },
+  "comment.city": {
+    "is_available": true,
+    "checked": "2020-03-19T21:21:07.281691"
+  },
+  "comment.club": {
+    "is_available": false,
+    "checked": "2020-03-19T21:21:18.333037"
+  },
+  "comment.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:21:29.353350"
+  },
+  "comment.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T21:21:40.530535"
+  },
+  "comment.com": {
+    "is_available": true,
+    "checked": "2020-03-19T21:21:51.517858"
+  },
+  "comment.community": {
+    "is_available": true,
+    "checked": "2020-03-19T21:22:02.542493"
+  },
+  "comment.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T21:22:13.606442"
+  },
+  "comment.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:22:24.660438"
+  },
+  "comment.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T21:22:35.855470"
+  },
+  "comment.events": {
+    "is_available": true,
+    "checked": "2020-03-19T21:22:47.231142"
+  },
+  "comment.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T21:22:58.209254"
+  },
+  "comment.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T21:23:09.301437"
+  },
+  "comment.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T21:23:20.320210"
+  },
+  "comment.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T21:23:31.373080"
+  },
+  "comment.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T21:23:42.252776"
+  },
+  "comment.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T21:23:53.357513"
+  },
+  "comment.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T21:24:04.373311"
+  },
+  "comment.games": {
+    "is_available": true,
+    "checked": "2020-03-19T21:24:15.628830"
+  },
+  "comment.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T21:24:28.066485"
+  },
+  "comment.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T21:24:39.324904"
+  },
+  "comment.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T21:24:50.149762"
+  },
+  "comment.info": {
+    "is_available": true,
+    "checked": "2020-03-19T21:25:01.446778"
+  },
+  "comment.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T21:25:12.785971"
+  },
+  "comment.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T21:25:24.085107"
+  },
+  "comment.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T21:25:35.010938"
+  },
+  "comment.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:25:46.227134"
+  },
+  "comment.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:25:57.029985"
+  },
+  "comment.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T21:26:08.104711"
+  },
+  "comment.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T21:26:19.120567"
+  },
+  "comment.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T21:26:30.210434"
+  },
+  "comment.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T21:26:41.186756"
+  },
+  "comment.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T21:26:52.231163"
+  },
+  "comment.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T21:27:03.234949"
+  },
+  "comment.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T21:27:14.312780"
+  },
+  "common.app": {
+    "is_available": true,
+    "checked": "2020-03-19T21:27:25.515496"
+  },
+  "common.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T21:27:36.627536"
+  },
+  "common.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T21:27:47.622078"
+  },
+  "common.city": {
+    "is_available": true,
+    "checked": "2020-03-19T21:27:58.809674"
+  },
+  "common.club": {
+    "is_available": false,
+    "checked": "2020-03-19T21:28:09.684618"
+  },
+  "common.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:28:20.728135"
+  },
+  "common.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T21:28:31.921605"
+  },
+  "common.com": {
+    "is_available": false,
+    "checked": "2020-03-19T21:28:42.727273"
+  },
+  "common.community": {
+    "is_available": true,
+    "checked": "2020-03-19T21:28:53.802232"
+  },
+  "common.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T21:29:04.846284"
+  },
+  "common.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:29:15.843225"
+  },
+  "common.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T21:29:27.119434"
+  },
+  "common.events": {
+    "is_available": true,
+    "checked": "2020-03-19T21:29:38.066061"
+  },
+  "common.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T21:29:49.253701"
+  },
+  "common.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T21:30:00.170451"
+  },
+  "common.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T21:30:10.973992"
+  },
+  "common.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T21:30:22.016278"
+  },
+  "common.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T21:30:33.028643"
+  },
+  "common.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T21:30:44.378312"
+  },
+  "common.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T21:30:55.424377"
+  },
+  "common.games": {
+    "is_available": true,
+    "checked": "2020-03-19T21:31:06.523343"
+  },
+  "common.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T21:31:17.561014"
+  },
+  "common.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T21:31:28.587200"
+  },
+  "common.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T21:31:39.907103"
+  },
+  "common.info": {
+    "is_available": true,
+    "checked": "2020-03-19T21:31:50.839456"
+  },
+  "common.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T21:32:02.199169"
+  },
+  "common.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T21:32:13.177833"
+  },
+  "common.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T21:32:24.053697"
+  },
+  "common.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:32:34.949261"
+  },
+  "common.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:32:46.297173"
+  },
+  "common.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T21:32:57.226281"
+  },
+  "common.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T21:33:08.255830"
+  },
+  "common.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T21:33:19.234311"
+  },
+  "common.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T21:33:30.379622"
+  },
+  "common.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T21:33:41.665997"
+  },
+  "common.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T21:33:52.946025"
+  },
+  "common.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T21:34:03.910008"
+  },
+  "complete.app": {
+    "is_available": true,
+    "checked": "2020-03-19T21:34:14.968990"
+  },
+  "complete.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T21:34:25.989745"
+  },
+  "complete.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T21:34:37.546057"
+  },
+  "complete.city": {
+    "is_available": true,
+    "checked": "2020-03-19T21:34:48.477269"
+  },
+  "complete.club": {
+    "is_available": false,
+    "checked": "2020-03-19T21:34:59.527327"
+  },
+  "complete.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:35:10.481138"
+  },
+  "complete.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T21:35:21.839000"
+  },
+  "complete.com": {
+    "is_available": false,
+    "checked": "2020-03-19T21:35:32.674346"
+  },
+  "complete.community": {
+    "is_available": true,
+    "checked": "2020-03-19T21:35:44.057976"
+  },
+  "complete.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T21:35:55.166136"
+  },
+  "complete.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:36:06.570329"
+  },
+  "complete.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T21:36:17.723434"
+  },
+  "complete.events": {
+    "is_available": true,
+    "checked": "2020-03-19T21:36:28.754962"
+  },
+  "complete.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T21:36:39.792492"
+  },
+  "complete.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T21:36:50.988823"
+  },
+  "complete.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T21:37:02.088639"
+  },
+  "complete.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T21:37:13.300125"
+  },
+  "complete.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T21:37:24.639459"
+  },
+  "complete.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T21:37:37.204044"
+  },
+  "complete.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T21:37:48.273728"
+  },
+  "complete.games": {
+    "is_available": false,
+    "checked": "2020-03-19T21:37:59.504530"
+  },
+  "complete.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T21:38:10.476765"
+  },
+  "complete.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T21:38:21.671720"
+  },
+  "complete.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T21:38:32.667520"
+  },
+  "complete.info": {
+    "is_available": true,
+    "checked": "2020-03-19T21:38:43.647734"
+  },
+  "complete.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T21:38:54.612584"
+  },
+  "complete.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T21:39:06.036178"
+  },
+  "complete.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T21:39:17.177695"
+  },
+  "complete.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:39:28.493320"
+  },
+  "complete.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:39:39.591805"
+  },
+  "complete.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T21:39:50.957466"
+  },
+  "complete.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T21:40:01.963236"
+  },
+  "complete.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T21:40:13.303288"
+  },
+  "complete.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T21:40:24.355599"
+  },
+  "complete.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T21:40:35.360440"
+  },
+  "complete.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T21:40:46.383266"
+  },
+  "complete.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T21:40:57.460217"
+  },
+  "connect.app": {
+    "is_available": true,
+    "checked": "2020-03-19T21:41:08.419518"
+  },
+  "connect.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T21:41:19.499971"
+  },
+  "connect.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T21:41:30.427382"
+  },
+  "connect.city": {
+    "is_available": true,
+    "checked": "2020-03-19T21:41:41.979262"
+  },
+  "connect.club": {
+    "is_available": true,
+    "checked": "2020-03-19T21:41:53.381644"
+  },
+  "connect.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:42:04.465824"
+  },
+  "connect.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T21:42:15.426002"
+  },
+  "connect.com": {
+    "is_available": true,
+    "checked": "2020-03-19T21:42:26.372260"
+  },
+  "connect.community": {
+    "is_available": true,
+    "checked": "2020-03-19T21:42:37.467228"
+  },
+  "connect.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T21:42:48.683108"
+  },
+  "connect.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:42:59.635107"
+  },
+  "connect.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T21:43:10.833814"
+  },
+  "connect.events": {
+    "is_available": true,
+    "checked": "2020-03-19T21:43:21.946750"
+  },
+  "connect.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T21:43:33.152559"
+  },
+  "connect.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T21:43:44.034865"
+  },
+  "connect.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T21:43:55.026961"
+  },
+  "connect.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T21:44:06.082218"
+  },
+  "connect.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T21:44:17.179557"
+  },
+  "connect.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T21:44:28.500712"
+  },
+  "connect.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T21:44:40.059253"
+  },
+  "connect.games": {
+    "is_available": true,
+    "checked": "2020-03-19T21:44:51.299016"
+  },
+  "connect.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T21:45:02.655064"
+  },
+  "connect.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T21:45:13.725986"
+  },
+  "connect.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T21:45:24.990671"
+  },
+  "connect.info": {
+    "is_available": true,
+    "checked": "2020-03-19T21:45:36.097795"
+  },
+  "connect.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T21:45:47.637219"
+  },
+  "connect.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T21:45:58.785178"
+  },
+  "connect.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T21:46:10.177894"
+  },
+  "connect.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:46:21.172271"
+  },
+  "connect.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:46:32.277202"
+  },
+  "connect.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T21:46:43.188829"
+  },
+  "connect.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T21:46:54.285412"
+  },
+  "connect.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T21:47:05.270949"
+  },
+  "connect.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T21:47:16.138981"
+  },
+  "connect.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T21:47:27.128834"
+  },
+  "connect.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T21:47:38.317280"
+  },
+  "connect.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T21:47:49.293648"
+  },
+  "context.app": {
+    "is_available": true,
+    "checked": "2020-03-19T21:48:00.470603"
+  },
+  "context.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T21:48:11.381350"
+  },
+  "context.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T21:48:22.411859"
+  },
+  "context.city": {
+    "is_available": true,
+    "checked": "2020-03-19T21:48:33.679150"
+  },
+  "context.club": {
+    "is_available": true,
+    "checked": "2020-03-19T21:48:44.954053"
+  },
+  "context.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:48:55.866233"
+  },
+  "context.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T21:49:06.909043"
+  },
+  "context.com": {
+    "is_available": true,
+    "checked": "2020-03-19T21:49:17.770345"
+  },
+  "context.community": {
+    "is_available": true,
+    "checked": "2020-03-19T21:49:28.953155"
+  },
+  "context.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T21:49:39.841309"
+  },
+  "context.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:49:50.962329"
+  },
+  "context.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T21:50:02.198184"
+  },
+  "context.events": {
+    "is_available": true,
+    "checked": "2020-03-19T21:50:13.385205"
+  },
+  "context.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T21:50:24.395642"
+  },
+  "context.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T21:50:35.520146"
+  },
+  "context.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T21:50:47.058028"
+  },
+  "context.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T21:50:58.492487"
+  },
+  "context.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T21:51:09.637488"
+  },
+  "context.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T21:51:20.896941"
+  },
+  "context.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T21:51:32.111288"
+  },
+  "context.games": {
+    "is_available": true,
+    "checked": "2020-03-19T21:51:43.057246"
+  },
+  "context.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T21:51:54.449018"
+  },
+  "context.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T21:52:05.711471"
+  },
+  "context.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T21:52:16.955984"
+  },
+  "context.info": {
+    "is_available": true,
+    "checked": "2020-03-19T21:52:28.130322"
+  },
+  "context.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T21:52:39.057442"
+  },
+  "context.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T21:52:50.241679"
+  },
+  "context.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T21:53:01.330345"
+  },
+  "context.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:53:12.398260"
+  },
+  "context.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:53:23.364409"
+  },
+  "context.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T21:53:34.417910"
+  },
+  "context.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T21:53:45.591707"
+  },
+  "context.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T21:53:56.762062"
+  },
+  "context.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T21:54:08.085596"
+  },
+  "context.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T21:54:19.555935"
+  },
+  "context.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T21:54:30.991567"
+  },
+  "context.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T21:54:42.109251"
+  },
+  "convention.app": {
+    "is_available": true,
+    "checked": "2020-03-19T21:54:53.279477"
+  },
+  "convention.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T21:55:04.324214"
+  },
+  "convention.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T21:55:15.614500"
+  },
+  "convention.city": {
+    "is_available": true,
+    "checked": "2020-03-19T21:55:26.744205"
+  },
+  "convention.club": {
+    "is_available": true,
+    "checked": "2020-03-19T21:55:37.809766"
+  },
+  "convention.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T21:55:48.992024"
+  },
+  "convention.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T21:56:00.071777"
+  },
+  "convention.com": {
+    "is_available": false,
+    "checked": "2020-03-19T21:56:11.052117"
+  },
+  "convention.community": {
+    "is_available": true,
+    "checked": "2020-03-19T21:56:22.512702"
+  },
+  "convention.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T21:56:33.770784"
+  },
+  "convention.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T21:56:44.964019"
+  },
+  "convention.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T21:56:56.214396"
+  },
+  "convention.events": {
+    "is_available": true,
+    "checked": "2020-03-19T21:57:07.330555"
+  },
+  "convention.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T21:57:18.321850"
+  },
+  "convention.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T21:57:29.220933"
+  },
+  "convention.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T21:57:40.263488"
+  },
+  "convention.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T21:57:51.225501"
+  },
+  "convention.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T21:58:02.285717"
+  },
+  "convention.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T21:58:13.358413"
+  },
+  "convention.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T21:58:24.400065"
+  },
+  "convention.games": {
+    "is_available": true,
+    "checked": "2020-03-19T21:58:35.455894"
+  },
+  "convention.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T21:58:46.454199"
+  },
+  "convention.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T21:58:57.373538"
+  },
+  "convention.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T21:59:08.420094"
+  },
+  "convention.info": {
+    "is_available": true,
+    "checked": "2020-03-19T21:59:19.327725"
+  },
+  "convention.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T21:59:30.319156"
+  },
+  "convention.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T21:59:41.583031"
+  },
+  "convention.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T21:59:52.709749"
+  },
+  "convention.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T22:00:03.746646"
+  },
+  "convention.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T22:00:15.103790"
+  },
+  "convention.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T22:00:25.821765"
+  },
+  "convention.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T22:00:36.804268"
+  },
+  "convention.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T22:00:47.781945"
+  },
+  "convention.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T22:00:59.055303"
+  },
+  "convention.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T22:01:10.298241"
+  },
+  "convention.wiki": {
+    "is_available": false,
+    "checked": "2020-03-19T22:01:21.378036"
+  },
+  "convention.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T22:01:32.349072"
+  },
+  "copy.app": {
+    "is_available": true,
+    "checked": "2020-03-19T22:01:43.786088"
+  },
+  "copy.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T22:01:54.906368"
+  },
+  "copy.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T22:02:06.084577"
+  },
+  "copy.city": {
+    "is_available": true,
+    "checked": "2020-03-19T22:02:17.091928"
+  },
+  "copy.club": {
+    "is_available": true,
+    "checked": "2020-03-19T22:02:28.632772"
+  },
+  "copy.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T22:02:39.733657"
+  },
+  "copy.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T22:02:51.171109"
+  },
+  "copy.com": {
+    "is_available": false,
+    "checked": "2020-03-19T22:03:01.964901"
+  },
+  "copy.community": {
+    "is_available": true,
+    "checked": "2020-03-19T22:03:13.096233"
+  },
+  "copy.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T22:03:24.365810"
+  },
+  "copy.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T22:03:35.528983"
+  },
+  "copy.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T22:03:46.505762"
+  },
+  "copy.events": {
+    "is_available": true,
+    "checked": "2020-03-19T22:03:57.552913"
+  },
+  "copy.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T22:04:08.509477"
+  },
+  "copy.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T22:04:19.550504"
+  },
+  "copy.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T22:04:30.415179"
+  },
+  "copy.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T22:04:41.570924"
+  },
+  "copy.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T22:04:52.525242"
+  },
+  "copy.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T22:05:03.559705"
+  },
+  "copy.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T22:05:14.498569"
+  },
+  "copy.games": {
+    "is_available": true,
+    "checked": "2020-03-19T22:05:25.504817"
+  },
+  "copy.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T22:05:36.482188"
+  },
+  "copy.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T22:05:47.535713"
+  },
+  "copy.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T22:05:58.865260"
+  },
+  "copy.info": {
+    "is_available": true,
+    "checked": "2020-03-19T22:06:09.846456"
+  },
+  "copy.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T22:06:20.809615"
+  },
+  "copy.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T22:06:32.011361"
+  },
+  "copy.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T22:06:42.973245"
+  },
+  "copy.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T22:06:54.169404"
+  },
+  "copy.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T22:07:05.124320"
+  },
+  "copy.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T22:07:16.168554"
+  },
+  "copy.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T22:07:27.335364"
+  },
+  "copy.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T22:07:38.713889"
+  },
+  "copy.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T22:07:49.651983"
+  },
+  "copy.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T22:08:00.734568"
+  },
+  "copy.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T22:08:11.830147"
+  },
+  "copy.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T22:08:22.833421"
+  },
+  "couch.app": {
+    "is_available": false,
+    "checked": "2020-03-19T22:08:33.773017"
+  },
+  "couch.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T22:08:45.006180"
+  },
+  "couch.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T22:08:56.025128"
+  },
+  "couch.city": {
+    "is_available": true,
+    "checked": "2020-03-19T22:09:07.056343"
+  },
+  "couch.club": {
+    "is_available": true,
+    "checked": "2020-03-19T22:09:19.380458"
+  },
+  "couch.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T22:09:30.879771"
+  },
+  "couch.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T22:09:42.068972"
+  },
+  "couch.com": {
+    "is_available": true,
+    "checked": "2020-03-19T22:09:53.150108"
+  },
+  "couch.community": {
+    "is_available": true,
+    "checked": "2020-03-19T22:10:04.121873"
+  },
+  "couch.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T22:10:15.160074"
+  },
+  "couch.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T22:10:26.132360"
+  },
+  "couch.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T22:10:37.674582"
+  },
+  "couch.events": {
+    "is_available": true,
+    "checked": "2020-03-19T22:10:48.584847"
+  },
+  "couch.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T22:10:59.833839"
+  },
+  "couch.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T22:11:10.812964"
+  },
+  "couch.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T22:11:21.656537"
+  },
+  "couch.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T22:11:32.638962"
+  },
+  "couch.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T22:11:43.728946"
+  },
+  "couch.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T22:11:54.694400"
+  },
+  "couch.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T22:12:05.932080"
+  },
+  "couch.games": {
+    "is_available": true,
+    "checked": "2020-03-19T22:12:16.690174"
+  },
+  "couch.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T22:12:27.754935"
+  },
+  "couch.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T22:12:38.769627"
+  },
+  "couch.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T22:12:49.953066"
+  },
+  "couch.info": {
+    "is_available": true,
+    "checked": "2020-03-19T22:13:00.762570"
+  },
+  "couch.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T22:13:11.765023"
+  },
+  "couch.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T22:13:22.543593"
+  },
+  "couch.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T22:13:33.611962"
+  },
+  "couch.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T22:13:44.562890"
+  },
+  "couch.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T22:13:55.727481"
+  },
+  "couch.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T22:14:06.755462"
+  },
+  "couch.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T22:14:17.904816"
+  },
+  "couch.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T22:14:28.833841"
+  },
+  "couch.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T22:14:40.022292"
+  },
+  "couch.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T22:14:51.007239"
+  },
+  "couch.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T22:15:02.108839"
+  },
+  "couch.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T22:15:12.960289"
+  },
+  "count.app": {
+    "is_available": true,
+    "checked": "2020-03-19T22:15:23.981989"
+  },
+  "count.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T22:15:35.202209"
+  },
+  "count.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T22:15:46.611030"
+  },
+  "count.city": {
+    "is_available": true,
+    "checked": "2020-03-19T22:15:57.644932"
+  },
+  "count.club": {
+    "is_available": false,
+    "checked": "2020-03-19T22:16:08.622124"
+  },
+  "count.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T22:16:19.904572"
+  },
+  "count.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T22:16:31.033222"
+  },
+  "count.com": {
+    "is_available": true,
+    "checked": "2020-03-19T22:16:41.999502"
+  },
+  "count.community": {
+    "is_available": true,
+    "checked": "2020-03-19T22:16:53.052377"
+  },
+  "count.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T22:17:04.008221"
+  },
+  "count.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T22:17:15.189135"
+  },
+  "count.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T22:17:26.261517"
+  },
+  "count.events": {
+    "is_available": true,
+    "checked": "2020-03-19T22:17:37.414948"
+  },
+  "count.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T22:17:48.443440"
+  },
+  "count.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T22:18:00.003331"
+  },
+  "count.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T22:18:11.110109"
+  },
+  "count.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T22:18:22.246159"
+  },
+  "count.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T22:18:33.224947"
+  },
+  "count.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T22:18:44.432515"
+  },
+  "count.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T22:18:55.629737"
+  },
+  "count.games": {
+    "is_available": true,
+    "checked": "2020-03-19T22:19:06.954467"
+  },
+  "count.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T22:19:17.932214"
+  },
+  "count.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T22:19:28.980534"
+  },
+  "count.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T22:19:39.930626"
+  },
+  "count.info": {
+    "is_available": true,
+    "checked": "2020-03-19T22:19:51.075609"
+  },
+  "count.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T22:20:02.197828"
+  },
+  "count.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T22:20:13.318585"
+  },
+  "count.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T22:20:24.202656"
+  },
+  "count.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T22:20:35.403108"
+  },
+  "count.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T22:20:46.544062"
+  },
+  "count.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T22:20:57.761988"
+  },
+  "count.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T22:21:09.149992"
+  },
+  "count.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T22:21:20.543042"
+  },
+  "count.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T22:21:31.861636"
+  },
+  "count.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T22:21:43.001965"
+  },
+  "count.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T22:21:54.080151"
+  },
+  "count.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T22:22:05.403277"
+  },
+  "countdown.app": {
+    "is_available": false,
+    "checked": "2020-03-19T22:22:16.421819"
+  },
+  "countdown.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T22:22:27.737157"
+  },
+  "countdown.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T22:22:38.899511"
+  },
+  "countdown.city": {
+    "is_available": true,
+    "checked": "2020-03-19T22:22:50.080250"
+  },
+  "countdown.club": {
+    "is_available": false,
+    "checked": "2020-03-19T22:23:00.953617"
+  },
+  "countdown.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T22:23:11.959787"
+  },
+  "countdown.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T22:23:22.822565"
+  },
+  "countdown.com": {
+    "is_available": false,
+    "checked": "2020-03-19T22:23:33.832437"
+  },
+  "countdown.community": {
+    "is_available": true,
+    "checked": "2020-03-19T22:23:44.475785"
+  },
+  "countdown.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T22:23:55.397817"
+  },
+  "countdown.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T22:24:06.260970"
+  },
+  "countdown.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T22:24:17.632699"
+  },
+  "countdown.events": {
+    "is_available": true,
+    "checked": "2020-03-19T22:24:28.659360"
+  },
+  "countdown.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T22:24:39.560690"
+  },
+  "countdown.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T22:24:50.485593"
+  },
+  "countdown.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T22:25:01.439279"
+  },
+  "countdown.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T22:25:12.385935"
+  },
+  "countdown.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T22:25:23.435430"
+  },
+  "countdown.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T22:25:34.496896"
+  },
+  "countdown.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T22:25:45.530684"
+  },
+  "countdown.games": {
+    "is_available": true,
+    "checked": "2020-03-19T22:25:56.501829"
+  },
+  "countdown.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T22:26:07.528837"
+  },
+  "countdown.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T22:26:18.453809"
+  },
+  "countdown.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T22:26:29.520484"
+  },
+  "countdown.info": {
+    "is_available": true,
+    "checked": "2020-03-19T22:26:40.596674"
+  },
+  "countdown.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T22:26:51.314082"
+  },
+  "countdown.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T22:27:02.286015"
+  },
+  "countdown.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T22:27:13.313876"
+  },
+  "countdown.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T22:27:24.286623"
+  },
+  "countdown.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T22:27:35.309035"
+  },
+  "countdown.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T22:27:46.296864"
+  },
+  "countdown.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T22:27:57.279008"
+  },
+  "countdown.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T22:28:08.198900"
+  },
+  "countdown.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T22:28:19.182076"
+  },
+  "countdown.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T22:28:30.140906"
+  },
+  "countdown.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T22:28:41.426077"
+  },
+  "countdown.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T22:28:52.387031"
+  },
+  "cover.app": {
+    "is_available": true,
+    "checked": "2020-03-19T22:29:03.886842"
+  },
+  "cover.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T22:29:14.726582"
+  },
+  "cover.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T22:29:25.658276"
+  },
+  "cover.city": {
+    "is_available": true,
+    "checked": "2020-03-19T22:29:36.704812"
+  },
+  "cover.club": {
+    "is_available": false,
+    "checked": "2020-03-19T22:29:47.647812"
+  },
+  "cover.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T22:29:58.577701"
+  },
+  "cover.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T22:30:09.522818"
+  },
+  "cover.com": {
+    "is_available": false,
+    "checked": "2020-03-19T22:30:20.285627"
+  },
+  "cover.community": {
+    "is_available": true,
+    "checked": "2020-03-19T22:30:31.468352"
+  },
+  "cover.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T22:30:42.428171"
+  },
+  "cover.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T22:30:53.464856"
+  },
+  "cover.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T22:31:04.465459"
+  },
+  "cover.events": {
+    "is_available": true,
+    "checked": "2020-03-19T22:31:15.546895"
+  },
+  "cover.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T22:31:26.456631"
+  },
+  "cover.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T22:31:37.407280"
+  },
+  "cover.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T22:31:48.337599"
+  },
+  "cover.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T22:31:59.389418"
+  },
+  "cover.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T22:32:10.371872"
+  },
+  "cover.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T22:32:21.455396"
+  },
+  "cover.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T22:32:32.260623"
+  },
+  "cover.games": {
+    "is_available": true,
+    "checked": "2020-03-19T22:32:43.092952"
+  },
+  "cover.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T22:32:53.853993"
+  },
+  "cover.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T22:33:04.521979"
+  },
+  "cover.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T22:33:15.319818"
+  },
+  "cover.info": {
+    "is_available": true,
+    "checked": "2020-03-19T22:33:26.147743"
+  },
+  "cover.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T22:33:37.016149"
+  },
+  "cover.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T22:33:47.800051"
+  },
+  "cover.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T22:33:58.539838"
+  },
+  "cover.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T22:34:09.424016"
+  },
+  "cover.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T22:34:20.216058"
+  },
+  "cover.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T22:34:31.038332"
+  },
+  "cover.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T22:34:42.089824"
+  },
+  "cover.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T22:34:53.121226"
+  },
+  "cover.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T22:35:03.881024"
+  },
+  "cover.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T22:35:14.696487"
+  },
+  "cover.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T22:35:25.539845"
+  },
+  "cover.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T22:35:36.387974"
+  },
+  "cpr.app": {
+    "is_available": true,
+    "checked": "2020-03-19T22:35:47.218557"
+  },
+  "cpr.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T22:35:58.226057"
+  },
+  "cpr.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T22:36:09.439129"
+  },
+  "cpr.city": {
+    "is_available": true,
+    "checked": "2020-03-19T22:36:20.395520"
+  },
+  "cpr.club": {
+    "is_available": false,
+    "checked": "2020-03-19T22:36:31.112351"
+  },
+  "cpr.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T22:36:41.971102"
+  },
+  "cpr.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T22:36:52.676963"
+  },
+  "cpr.com": {
+    "is_available": true,
+    "checked": "2020-03-19T22:37:03.383987"
+  },
+  "cpr.community": {
+    "is_available": true,
+    "checked": "2020-03-19T22:37:14.095677"
+  },
+  "cpr.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T22:37:24.921838"
+  },
+  "cpr.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T22:37:35.707106"
+  },
+  "cpr.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T22:37:46.941912"
+  },
+  "cpr.events": {
+    "is_available": true,
+    "checked": "2020-03-19T22:37:57.767902"
+  },
+  "cpr.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T22:38:08.698579"
+  },
+  "cpr.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T22:38:19.911607"
+  },
+  "cpr.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T22:38:30.972491"
+  },
+  "cpr.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T22:38:41.768875"
+  },
+  "cpr.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T22:38:52.542083"
+  },
+  "cpr.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T22:39:03.343945"
+  },
+  "cpr.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T22:39:14.172217"
+  },
+  "cpr.games": {
+    "is_available": true,
+    "checked": "2020-03-19T22:39:24.800201"
+  },
+  "cpr.gifts": {
+    "is_available": true,
+    "checked": "2020-03-19T22:39:35.964375"
+  },
+  "cpr.guide": {
+    "is_available": true,
+    "checked": "2020-03-19T22:39:47.061420"
+  },
+  "cpr.guru": {
+    "is_available": true,
+    "checked": "2020-03-19T22:39:58.082693"
+  },
+  "cpr.info": {
+    "is_available": true,
+    "checked": "2020-03-19T22:40:08.834960"
+  },
+  "cpr.investments": {
+    "is_available": true,
+    "checked": "2020-03-19T22:40:19.808679"
+  },
+  "cpr.loans": {
+    "is_available": true,
+    "checked": "2020-03-19T22:40:30.664349"
+  },
+  "cpr.pizza": {
+    "is_available": true,
+    "checked": "2020-03-19T22:40:41.616910"
+  },
+  "cpr.recipes": {
+    "is_available": true,
+    "checked": "2020-03-19T22:40:52.530866"
+  },
+  "cpr.rentals": {
+    "is_available": true,
+    "checked": "2020-03-19T22:41:03.477964"
+  },
+  "cpr.reviews": {
+    "is_available": true,
+    "checked": "2020-03-19T22:41:14.364283"
+  },
+  "cpr.sale": {
+    "is_available": true,
+    "checked": "2020-03-19T22:41:25.332938"
+  },
+  "cpr.studio": {
+    "is_available": true,
+    "checked": "2020-03-19T22:41:36.259925"
+  },
+  "cpr.tips": {
+    "is_available": true,
+    "checked": "2020-03-19T22:41:47.167210"
+  },
+  "cpr.tools": {
+    "is_available": true,
+    "checked": "2020-03-19T22:41:58.138552"
+  },
+  "cpr.wiki": {
+    "is_available": true,
+    "checked": "2020-03-19T22:42:09.165795"
+  },
+  "cpr.wtf": {
+    "is_available": true,
+    "checked": "2020-03-19T22:42:20.058899"
+  },
+  "create.app": {
+    "is_available": true,
+    "checked": "2020-03-19T22:42:31.289776"
+  },
+  "create.cafe": {
+    "is_available": true,
+    "checked": "2020-03-19T22:42:42.162956"
+  },
+  "create.charity": {
+    "is_available": true,
+    "checked": "2020-03-19T22:42:53.153190"
+  },
+  "create.city": {
+    "is_available": true,
+    "checked": "2020-03-19T22:43:04.057962"
+  },
+  "create.club": {
+    "is_available": false,
+    "checked": "2020-03-19T22:43:14.976025"
+  },
+  "create.codes": {
+    "is_available": true,
+    "checked": "2020-03-19T22:43:25.721588"
+  },
+  "create.coffee": {
+    "is_available": true,
+    "checked": "2020-03-19T22:43:36.792340"
+  },
+  "create.com": {
+    "is_available": false,
+    "checked": "2020-03-19T22:43:47.485973"
+  },
+  "create.community": {
+    "is_available": true,
+    "checked": "2020-03-19T22:43:58.562107"
+  },
+  "create.coupons": {
+    "is_available": true,
+    "checked": "2020-03-19T22:44:09.425532"
+  },
+  "create.deals": {
+    "is_available": true,
+    "checked": "2020-03-19T22:44:20.453984"
+  },
+  "create.dev": {
+    "is_available": true,
+    "checked": "2020-03-19T22:44:31.439601"
+  },
+  "create.events": {
+    "is_available": true,
+    "checked": "2020-03-19T22:44:42.992459"
+  },
+  "create.expert": {
+    "is_available": true,
+    "checked": "2020-03-19T22:44:54.227809"
+  },
+  "create.finance": {
+    "is_available": true,
+    "checked": "2020-03-19T22:45:05.470639"
+  },
+  "create.fitness": {
+    "is_available": true,
+    "checked": "2020-03-19T22:45:16.358752"
+  },
+  "create.flights": {
+    "is_available": true,
+    "checked": "2020-03-19T22:45:27.288555"
+  },
+  "create.florist": {
+    "is_available": true,
+    "checked": "2020-03-19T22:45:38.128096"
+  },
+  "create.fun": {
+    "is_available": true,
+    "checked": "2020-03-19T22:45:48.953760"
+  },
+  "create.fyi": {
+    "is_available": true,
+    "checked": "2020-03-19T22:45:59.838680"
+  },
+  "create.games": {
+    "is_available": true,
+    "checked": "2020-03-19T22:46:10.826106"
   }
 }
